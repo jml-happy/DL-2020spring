@@ -165,22 +165,10 @@ This schedule will be updated as the class progresses.
 * 30 points = Final Project Poster & Poster Presentation
 * 1 bonus point to everyone in the class if 80%+ complete the course evaluation survey
 
-**Grading Scheme (from Canvas)**  
-  <img src="syllabus/grading.png" align="middle" width="250"/> 
-
----------
-#### “A Little Learning” by Alexander Pope
-A little learning is a dangerous thing;  
-Drink deep, or taste not the Pierian spring:  
-There shallow draughts intoxicate the brain,  
-And drinking largely sobers us again.  
-
----------
-## Students' Projects
-* Jeffrey's Mood Detection Project - https://github.com/jnkx9c/DL_Project/
-* Andrew's Street Sign Classification Project - https://github.com/Hopding/street-sign-classifier
-* Trevor's Flower Classification - https://github.com/Trevor-Parsons/DL-Semester-Project
-* Cole's Dice Detector - https://github.com/ColeAlves/DiceDetector/
-* Patrick and Cody's Analog-clock Time Prediction - https://github.com/pkong0414/Deep-Learning-Projects/ & https://github.com/Balfabb7/deepLearning
-* Andrew's Digital Clock Project - https://github.com/andrewHosna/dl_ai_project
-
+### Grading Scheme  
+| Grade | Points |  | Grade | Points |   | Grade | Points | 
+| --- | --- | --- | --- | --- | --- | --- | --- | 
+| A | 100% to 94% | | B- | <84% to 80% | | D+ | <70% to 67% |
+| A- | <94% to 90% | | C+ | <80% to 77% | | D | <67% to 64% |
+| B+ | <90% to 87% | | C | <77% to 74% | | D- | <64% to 61% |
+| B | <87% to 84% | | C- | <74% to 70% | | F | <61% to 0% |
