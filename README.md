@@ -1,14 +1,13 @@
 <img src="syllabus/umsl.png" align="middle" width="200"/>
 
-## Deep Learning - CMP SCI 4390/5390
-## Syllabus - 2019 Spring
+## Syllabus of CMPSCI 4390/5390 (Deep Learning) - 2020 Spring
 
 [Academic Calendar](https://www.umsl.edu/services/fa/telephone-directory/academic_calendar.pdf) | [Resources & Support](https://umsl.instructure.com/courses/44471/pages/student-resources-and-supports?module_item_id=454221) |  [Technology Assistance](https://umsl.instructure.com/courses/44471/pages/technology-assistance?module_item_id=454223) | [Final Exam Schedule](https://www.umsl.edu/~registration/final-exams.html) | [Spring 2019 - All Courses](https://www.umsl.edu/~registration/students/sp19-pdf.pdf) 
 
 ## About the Instructor
 * Name: Badri Adhikari
 * Email: adhikarib@umsl.edu (Use your UMSL email account to send me emails)
-* Office Hours: Tuesdays from 6:45 PM to 8:15 PM & Thursdays from 2:30 PM to 4 PM
+* Office Hours: Mondays from 1 PM to 4 PM
 * Office Location: 312 ESH
 * Homepage: [https://badriadhikari.github.io](https://badriadhikari.github.io)
 
@@ -38,7 +37,7 @@ Deep learning is popular because of its high applicability and superior performa
 * Build, train, and use deep neural networks
 
 **Class meets**
-* TuTh 4 PM to 5:15 PM at SSB 218
+* TuTh 6:55 PM to 8:10 PM at Clark Hall 306
 
 **Course Materials**
 * Slides, Project Requirements, Tests, and Samples are inside the relevant folders
@@ -51,40 +50,39 @@ Deep learning is popular because of its high applicability and superior performa
 ## Course Schedule
 This schedule will be updated as the class progresses.  
 
-| `Week` | `Day` | `Date` | `Topic` | 
-| --- | --- | --- | --- | 
-| 01 | 01 | Jan 22, Tue | Syllabus; Python and Numpy Tutorial up to 'List comprehensions' |
-| 01 | 02 | Jan 24, Thu | Python and Numpy Tutorial |
-| 02 | 03 | Jan 29, Tue | Visual Guide to NNs; XNOR funtion; Training, Dev & Test Sets |
-| 02 | 04 | Jan 31, Thu | Lab on Python, Numpy and Keras (Class at ESH 00005) |
-| 03 | 05 | Feb 05, Tue | Review of Syllabus & Discuss Test Samples; 05_NNs_for_Classification.ipynb |
-| 03 | 06 | Feb 07, Thu | 06_NNs_for_Regression.ipynb; Intro to CNNs |
-| 04 | 07 | Feb 12, Tue | 08_Digit_Image_Classification_MNIST.ipynb |
-| 04 | 08 | Feb 14, Thu | Revision for Test |
-| 05 | 09 | Feb 19, Tue | XGBoost Library; Module II Slides 1 to 22 |
-| 05 | 10 | Feb 21, Thu | TEST |
-| 06 | 11 | Feb 26, Tue | Module II Slides 23 to 36 |
-| 06 | 12 | Feb 28, Thu | Project Requirements; Module II Slides 37 to 52 |
-| 07 | 13 | Mar 05, Tue | Module II Slides 53 to 72 |
-| 07 | 14 | Mar 07, Thu | Discussion of Project Ideas; Module II Slides 73 to 74 |
-| 08 | 15 | Mar 12, Tue | Module II Slides 75 to 98 |
-| 08 | 16 | Mar 14, Thu | Module II Slides 99 to 116 |
-| 09 | 17 | Mar 19, Tue | Module II Slides 99 to 127 |
-| 09 | 18 | Mar 21, Thu | Module II Slides 128 to END |
-| - | - | - | Spring Recess |
-| 10 | 19 | Apr 02, Tue | Module III Slides 1 to 11 |
-| 10 | 20 | Apr 04, Thu | Student Presentations of NIPS 2017 Papers |
-| 11 | 21 | Apr 09, Tue | No Class (prepare.ai) |
-| 11 | 22 | Apr 11, Thu | Module III Slides 12 to 23 |
-| 12 | 23 | Apr 16, Tue | Module III Slides 24 to 35 |
-| 12 | 24 | Apr 18, Thu | Student Presentations of NIPS 2018 Papers |
-| 13 | 25 | Apr 23, Tue | Module III Slides 36 to 47 |
-| 13 | 26 | Apr 25, Thu | Module III Slides 48 to 65 |
-| 14 | 27 | Apr 30, Tue | Plan: Module III Slides 67 to END |
-| 14 | 28 | May 02, Thu | Project Code and Report Due |
-| 15 | 29 | May 07, Tue | No Class (conference travel) |
-| 15 | 30 | May 09, Thu |  |
-| - | - | - | (Final Exam) Poster Presentation on Tuesday, 14 May 02:45 – 04:45 PM |  
+| `Week` | `Date` | `Topic` | 
+| --- | --- | --- | 
+| 01 | Jan 22, Wed | Syllabus + Python Tutorial |
+| 02 | Jan 27, Mon |  |
+| 02 | Jan 29, Wed |  |
+| 03 | Feb 03, Mon |  |
+| 03 | Feb 05, Wed |  |
+| 04 | Feb 10, Mon |  |
+| 04 | Feb 12, Wed |  |
+| 05 | Feb 17, Mon |  |
+| 05 | Feb 19, Wed |  |
+| 06 | Feb 24, Mon |  |
+| 06 | Feb 26, Wed |  |
+| 07 | Mar 02, Mon |  |
+| 07 | Mar 04, Wed |  |
+| 08 | Mar 09, Mon |  |
+| 08 | Mar 11, Wed |  |
+| 09 | Mar 16, Mon |  |
+| 09 | Mar 18, Wed |  |
+| - | - | Spring break |
+| 11 | Mar 30, Mon |  |
+| 11 | Apr 01, Wed |  |
+| 12 | Apr 06, Mon |  |
+| 12 | Apr 08, Wed |  |
+| 13 | Apr 13, Mon |  |
+| 13 | Apr 15, Wed |  |
+| 14 | Apr 20, Mon |  |
+| 14 | Apr 22, Wed |  |
+| 15 | Apr 27, Mon |  |
+| 15 | Apr 29, Wed |  |
+| 16 | May 04, Mon |  |
+| 16 | May 06, Wed |  |
+| - | May 14, Thu | **Final Exam - 7:45 PM to 9:45 PM at Clark Hall 306** |  
 
 ## Course Topics
 
