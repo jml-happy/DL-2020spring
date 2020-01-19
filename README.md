@@ -1,5 +1,5 @@
 
-<img src="supporting_files/umsl.png" align="middle" width="400"/>
+<img src="syllabus/umsl.png" align="middle" width="400"/>
 
 ## Syllabus of Deep Learning (CMPSCI 4390/5390) - 2020 Spring
 
@@ -131,5 +131,5 @@
 * 10 points = Poster presentation (score from external judges, peers, and instructor)
 
 ## Grading scheme  
-<img src="supporting_files/grades.png" align="middle" width="450"/>
+<img src="syllabus/grades.png" align="middle" width="450"/>
 
