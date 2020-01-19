@@ -172,3 +172,7 @@ This schedule will be updated as the class progresses.
 | A- | <94% to 90% | | C+ | <80% to 77% | | D | <67% to 64% |
 | B+ | <90% to 87% | | C | <77% to 74% | | D- | <64% to 61% |
 | B | <87% to 84% | | C- | <74% to 70% | | F | <61% to 0% |
+
+https://www.labri.fr/perso/nrougier/from-python-to-numpy/
+https://github.com/rougier/numpy-100/blob/master/100_Numpy_exercises.ipynb
+
