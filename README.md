@@ -1,6 +1,6 @@
 <img src="syllabus/umsl.png" align="middle" width="200"/>
 
-## Syllabus of CMPSCI 4390/5390 (Deep Learning) - 2020 Spring
+## Syllabus of Deep Learning (CMPSCI 4390/5390) - 2020 Spring
 
 [Academic Calendar](https://www.umsl.edu/services/fa/telephone-directory/academic_calendar.pdf) | [Resources & Support](https://umsl.instructure.com/courses/44471/pages/student-resources-and-supports?module_item_id=454221) |  [Technology Assistance](https://umsl.instructure.com/courses/44471/pages/technology-assistance?module_item_id=454223) | [Final Exam Schedule](https://www.umsl.edu/~registration/final-exams.html) | [Spring 2019 - All Courses](https://www.umsl.edu/~registration/students/sp19-pdf.pdf) 
 
