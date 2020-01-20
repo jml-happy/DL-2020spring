@@ -52,47 +52,56 @@
 * "Deep Learning" (DL) by Ian Goodfellow, Yoshua Bengio, and Aaron Courville <br/> <br/> <img src="syllabus/dlwithpython.jpeg" align="middle" height="150"/>    <img src="syllabus/mlyearning.jpg" align="middle" height="150"/>    <img src="syllabus/dlgoodfellow.jpg" align="middle" height="150"/>  
 
 ## Course topics
-**Module I: Introduction to Machine Learning (will conclude with ‘the’ test)**  
-* Python and Numpy Basics  
-* Feedforward NNs and CNNs using Keras 
 
-**Module II: Fundamentals of Deep Learning**  
-* Deep Learning and its Mathematical Building Blocks (Ch1 & Ch2 in DLP)  
-* Getting Started with Neural Networks (Ch3 in DLP)  
-* Fundamentals of Machine Learning (Ch4 in DLP)  
-* Machine Learning Basics (Ch5 of DL)  
+* Introduction to Python and Numpy
+  - Python to Numpy
+  - 100 Numpy examples
+* Introduction to deep learning, four branches ML (4.1)
+  - Section 4.1 of DLP
+* Data representations for NN
+  - Section x.c of DLP
+* Introduction to Keras
 
-**Module III: Convolutional Neural Networks**  
-* Deep Learning for Computer Vision (Ch5 in DLP)
-* Different Types of CNNs
-* Convolutional Networks (Ch9 in DL)
-* Residual Neural Networks
-* Transfer Learning - Existing architectures - U-net, Resnet, VGGNet, etc.
-* Hardware for Deep Learning / GPUs
+* Feed-forward NN
+  - Wine quality prediction
+  - Discussion: Feed-forward NN (visual guide + first NN step by step)
 
-**Module IV: Deep Learning in Practice**  
-* Deep Learning for Text and Sequences (Ch6 in DLP)
-* Advanced Deep Learning Practices (Ch7 in DLP)
-* Advanced Deep Learning Practices (Ch7 in DLP)
-* Generative Deep Learning (Ch8 in DLP)
-* Unsupervised Learning
-* Regularization for Deep Learning (Ch7 in DL)
-* Optimization for Training Deep Models (Ch8 in DL)
-* Sequence Modeling: Recurrent and Recursive Nets (Ch10 in DL)
+* Deep learning practices
 
-**Module V: Limitations and Future of DL**  
-* The Backpropagation Algorithm
-* Limitations and Future of DL (Ch9 in DLP)
-
-**[If Time Permits] Module VI: Review of Concepts in Deep Learning**  
-* Setting up Development and Test sets (Ch5 to Ch11 in MLY)  
-* Basic Error Analysis (Ch13 to Ch18 in MLY)  
-* Bias, Variance, and Learning Curves (Ch20 to Ch32 in MLY)  
-* Training and Testing on Different Distributions, & Debugging Inference Algorithms (Ch36 to Ch46 in MLY)  
-* End-to-end Deep Learning & Error Analysis by Parts (Ch47 to Ch57 in MLY)  
+* Image loading and processing
+  - Normalization
+  - Agumentation
+  - Image data generator
+  - Section 5.2.4
+* The convolution operation
+  - Concept of convolution, dilated convolutions, separable convolutions
+  - Activity: Training one convolution filter
+* Activations & loss functions & Regression vs Binary
+* Learning to classify digits using filters
+* Training, dev, and test set & Apply to MNIST
+* Evaluating ML models (4.2)
+* Feature engineering and feature learning
+* Overfitting and underfitting
+* Regularization
+* CNN architectures
+  - Padding and Max-pooling
+  - Classic architectures
+  - Residual networks
+  - Inception network & GoogLeNet
+  - DenseNet and NASNet
+* The universal workflow of ML
+* Transfer learning
+* Capsule networks
+* GPUs for deep learning
+  - Discussion: GPU war + Multi-GPU training
+* Protein distance prediction
+* Explainable models
+* Limitations of DL and conclusion
 
 ## Course schedule
-* Course schedule is [here](https://docs.google.com/spreadsheets/d/e/2PACX-1vRF6jdD5-whvlX-1mbKLpnryHVr8dIcKUbJcfg-Kx6WH7PkiXNRgLwyaQFO8svZWfxtaccjYpef0mpm/pubhtml?gid=1410243905&single=true).
+<img src="schedule.png" align="middle" width="600"/>
+
+* Detailed course schedule is [here](https://docs.google.com/spreadsheets/d/e/2PACX-1vRF6jdD5-whvlX-1mbKLpnryHVr8dIcKUbJcfg-Kx6WH7PkiXNRgLwyaQFO8svZWfxtaccjYpef0mpm/pubhtml?gid=1410243905&single=true).
 
 ## General policies
 * Keep yourself out of plagarism; Read [UMSL's Policy](https://www.umsl.edu/services/academic/policy/academic-dishonesty.html); Our `turnitin` tool automatically checks for plagarism; Here is an [example](syllabus/turn-it-in.png).
