@@ -21,7 +21,7 @@ a) A link to your Colab notebook (make sure that anyone with the link can view)
 b) A PDF report describing your findings  
 
 ## 2. Build an overfitting model
-1. Compare the results of the neural network with a linear regression or logistic regression model
+1. Build a model Compare the results of the neural network with a linear regression or logistic regression model
     - Start with a basic model and then grow your model into a multi-layered model
     - Discuss how neural network models will be selected
     - Document your performance comparison
