@@ -2,7 +2,7 @@
 Learn to understand and analyze findings in a deep learning paper.
 
 ## Guidelines
-1. Read "reading_a_cs_research_paper.pdf" and "how_to_read_a_paper.pdf" in this folder.
+1. Read "[reading_a_cs_research_paper.pdf](https://github.com/badriadhikari/badriadhikari.github.io/blob/master/resources/reading_a_cs_research_paper.pdf)" and "[how_to_read_a_paper.pdf](https://github.com/badriadhikari/badriadhikari.github.io/blob/master/resources/how_to_read_a_paper.pdf)".
 2. Form a group of 2 to 3 students
 3. Select a paper of your choice
    - [NIPS 2019] [Poster](https://nips.cc/Conferences/2017/Schedule?type=Poster) or [Oral](https://nips.cc/Conferences/2017/Schedule?type=Oral)
