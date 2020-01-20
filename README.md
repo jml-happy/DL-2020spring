@@ -69,11 +69,12 @@
 
 * The convolution operation - [slides] [circle-rectangle.ipynb]
   - Section 5.1.1
-  - Classroom activity: train a single filter
+  - Classroom activity: Train a single filter
 
 * Activations & loss functions - [slides]
  
 * Learning to classify digits using filters - [learn-to-classify-digits.ipynb]
+  - Classroom activity: Split MNIST into train, dev, and test set and learn a model
 
 * Evaluating models - [slides] [mnist-train-dev-test.ipynb]
   - Sections, 4.2, 4.2.1, 4.2.2 
