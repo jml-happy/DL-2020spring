@@ -149,12 +149,21 @@
 ## Attendance  
 * Attendance will be recorded frequently
 * More than 5 uninformed absenses may lead to failing the course
-
+  
 ## Grade composition  
+* 10 Tests → 10 * 3 points
+* 10 Homeworks → 10 * 2 points
+* 3 Presentations → 3 * 3.34 points
+* 1 Project → 40 points
+* 1.5 bonus point to everyone in the class if 80%+ complete the course evaluation survey
+
 #### Project (40 points)
-* 10  points = Data analysis & preparation
-* 10  points = Model selection & evaluation
-* 5  points = Feature importance and reduction
+* 5  points → Data preparation
+* 5  points → Build an overfitting model
+* 5  points → Split & evaluate on test set
+* 5  points → Effects of augmentation
+* 5  points → Effects of regularization
+* 5  points → Use pretrained & residual archs.
 * 5  points = Addressing peer-reviews
 * 10 points = Poster presentation (score from external judges, peers, and instructor)
 
