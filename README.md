@@ -131,7 +131,7 @@
 * Once you use your late days, late submissions will get no points.
 
 ## Course project
-* Project and requirements are described [here](PROJECT.md).
+* Project requirements are described [here](PROJECT.md).
 
 ## Homeworks
 * There will be two kinds of homeworks: 1) writing chapter section summaries, and 2) project milestones.
