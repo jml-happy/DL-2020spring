@@ -58,10 +58,10 @@
   - "[From Python to Numpy](https://www.labri.fr/perso/nrougier/from-python-to-numpy/)" and "[100 numpy exercises](https://github.com/rougier/numpy-100/blob/master/100_Numpy_exercises.ipynb)" by Nicolas P. Rougier
 
 * Introduction to deep learning - slides
-  - Section 1.1, 1.2, 1.3, and 4.1
+  - Sections 1.1, 1.2, 1.3, and 4.1
 
-* Data representations for NN
-  - Section x.c of DLP
+* Data representations for NN - slides
+  - Sections 2.2, 2.3, and 2.4
 
 * Introduction to Keras
 
