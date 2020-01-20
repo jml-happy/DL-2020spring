@@ -69,6 +69,7 @@
 
 * The convolution operation - [slides] [circle-rectangle.ipynb]
   - Section 5.1.1
+  - Classroom activity: train a single filter
 
 * Activations & loss functions - [slides]
  
