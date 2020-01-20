@@ -11,7 +11,7 @@
 * Office location and hours: `312 Express Scripts Hall`, `Mondays 1PM to 4PM` 
 
 ## About the course
-* Deep learning is popular because of its high applicability and superior performance in domains where we use machine learning. Deep learning based applications have reached or surpassed human performance not only for industrial problems like object classification, speech recognition, and stock market prediction but also for many problems in the field of biology and medicine. Recently, deep learning is demonstrated to outperform human radiologists in detecting pneumonia from chest X-rays. It is also reliably used in iPhone-X for unlocking the phone through accurate face detection. Self-driving cars drive using the deep learning algorithms. Deep learning will soon replace humans in most domains of human mental labor. This course reviews a typical machine learning recipe, mathematical foundations for deep learning, and provides an introduction to deep learning. Topics include dense neural networks, convolutional neural networks, and recurrent neural networks. The course will cover building, training, and using deep neural networks for solving various machine learning problems like image classification and crime prediction. At the end of the course you will be able to differentiate what kinds of problems are best solved by deep learning algorithms and what are not. You will also be able to develop your own deep learning applications for solving problems of your choice.
+* Deep learning is popular because of its high applicability and superior performance in domains where we use machine learning. Deep learning based applications have reached or surpassed human performance not only for industrial problems like object classification, speech recognition, and stock market prediction but also for many problems in the field of biology and medicine. Recently, deep learning is demonstrated to outperform human radiologists in detecting pneumonia from chest X-rays. It is also reliably used in iPhone-X for unlocking the phone through accurate face detection. Self-driving cars drive using the deep learning algorithms. Deep learning will soon replace humans in most domains of human mental labor. This course reviews a typical machine learning recipe, computational foundations for deep learning, and provides an introduction to deep learning of dense neural networks. The course will focus on building, training, and evaluating deep convolutional neural networks for solving various machine learning problems, particularly the ones relating to image data. At the end of the course you will also be able to differentiate what kinds of problems are best solved by deep learning algorithms and what are not, and develop your own deep learning applications. You will also learn major technology trends in deep learning and understand what makes it different from traditional machine learning.
 
 **Catalog Description**
 * This course reviews a typical machine learning recipe, mathematical foundations for deep learning, and provides an introduction to deep learning. Topics include dense neural networks, convolutional neural networks, and recurrent neural networks. The course will cover building, training, and using deep neural networks for solving various machine learning problems like image classification and protein contact prediction. Credit cannot be granted for both CMP SCI 4390 and CMP SCI 5390. \[3 credit units\].
@@ -19,17 +19,10 @@
 **This course aims to:** 
 * Revise the recipe for machine learning and introduce deep learning
 * Explain what makes deep learning powerful compared to traditional machine learning methods 
-* Cover the basic mathematical foundations of deep learning such as vector operations 
-* Introduce the various flavors of deep learning such as dense neural networks, convolutional neural networks, and recurrent neural networks 
+* Cover the basic computationsl foundations of deep learning such as vector operations 
+* Introduce the various flavors of deep learning such as dense neural networks, convolutional neural networks, and residual networks 
 * Delve into building, training, and using deep neural networks for solving various machine learning problems such as image classification and protein contact prediction
 * Cover how a deep learning architectures actually work and how to debug 
-
-**Upon completing the course students will be able to (Learning Outcomes):** 
-* Learn mathematical foundations for deep learning 
-* Learn the major technology trends in deep learning 
-* Understand what makes deep learning different from traditional machine learning 
-* Understand the parameters in a deep neural network architecture 
-* Build, train, and use deep neural networks
 
 ## Prerequisites  
 * CMPSCI 3130 (Design and Analysis of Algorithms) or Graduate Standing in CS
