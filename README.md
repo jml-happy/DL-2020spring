@@ -133,7 +133,8 @@
 
 ## Homeworks
 
-
+## Presentations
+* See [PRESENTATIONS](PRESENTATIONS.md).
 
 ## Tests 
 * Tests will be CLOSED book, CLOSED notes, and CLOSED electronics.
