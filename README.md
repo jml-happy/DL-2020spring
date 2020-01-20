@@ -53,7 +53,7 @@
 * Introduction to deep learning - [slides]
   - Sections 1.1, 1.2, 1.3, and 4.1
 
-* Data representations and tensor operations - [slides]
+* Data representations & tensor operations - [slides]
   - Sections 2.2, 2.3, and 2.4
 
 * Introduction to Keras - [slides]
@@ -79,10 +79,10 @@
 * Evaluating models - [slides] [mnist-train-dev-test.ipynb]
   - Sections, 4.2, 4.2.1, 4.2.2 
 
-* Feature engineering and learning - [slides]
+* Feature engineering & learning - [slides]
   - Section 4.3
 
-* Overfitting, underfitting, & Regularization - [slides]
+* Overfitting, underfitting, & regularization - [slides]
   - Sections 4.4, 4.4.1, 4.4.2, and 4.4.3
 
 * Convolutional NN architectures - [slides] [video lecture]
@@ -109,7 +109,7 @@
 * Explainable models - [slides]
   - Section 5.4
 
-* Limitations of DL and conclusion - [slides]
+* Limitations of DL & conclusions - [slides]
   - Section 9.2
 
 ## Course schedule
