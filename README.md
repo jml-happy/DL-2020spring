@@ -58,10 +58,12 @@
   - Viedo lectures - python, numpy, matplotlib & pyplot
   - "[From Python to Numpy](https://www.labri.fr/perso/nrougier/from-python-to-numpy/)" and "[100 numpy exercises](https://github.com/rougier/numpy-100/blob/master/100_Numpy_exercises.ipynb)" by Nicolas P. Rougier
 
-* Introduction to deep learning, four branches ML (4.1)
-  - Section 4.1 of DLP
+* Introduction to deep learning - slides
+  - Section 1.1, 1.2, 1.3, and 4.1
+
 * Data representations for NN
   - Section x.c of DLP
+
 * Introduction to Keras
 
 * Feed-forward NN
