@@ -59,27 +59,31 @@
 
 * Introduction to deep learning - slides
   - Sections 1.1, 1.2, 1.3, and 4.1
+  - History of deep learning - Slide 14 at https://www.slideshare.net/LuMa921/deep-learning-a-visual-introduction
 
-* Data representations for NN - slides
+* Data representations and tensor operations - slides
   - Sections 2.2, 2.3, and 2.4
 
-* Introduction to Keras
+* Introduction to Keras - slides
+  - Sections 3.2 and 3.3
 
-* Feed-forward NN
-  - Wine quality prediction
-  - Discussion: Feed-forward NN (visual guide + first NN step by step)
+* Feed-forward neural networks
+  - Wine quality prediction - wine.ipynb
 
-* Deep learning practices
+* Deep learning practices - slides
+  - Sections 7.1.2, 7.1.3, 7.1.4, and 7.1.5
 
-* Image loading and processing
-  - Normalization
-  - Agumentation
-  - Image data generator
-  - Section 5.2.4
-* The convolution operation
-  - Concept of convolution, dilated convolutions, separable convolutions
+* Preparing images for deep learning - slides
+  - Sections 3.6.2, 5.2.4, and 5.2.5
+
+* The convolution operation - slides
+  - Section 5.1.1
   - Activity: Training one convolution filter
-* Activations & loss functions & Regression vs Binary
+
+* Activations & loss functions
+Regression vs Binary
+https://gombru.github.io/2018/05/23/cross_entropy_loss/
+
 * Learning to classify digits using filters
 * Training, dev, and test set & Apply to MNIST
 * Evaluating ML models (4.2)
@@ -96,6 +100,7 @@
 * Transfer learning
 * Capsule networks
 * GPUs for deep learning
+https://www.microway.com/knowledge-center-articles/comparison-of-nvidia-geforce-gpus-and-nvidia-tesla-gpus/
   - Discussion: GPU war + Multi-GPU training
 * Protein distance prediction
 * Explainable models
