@@ -54,8 +54,11 @@
 ## Course topics
 
 * Introduction to Python and Numpy
-  - Python to Numpy
-  - 100 Numpy examples
+  - Notebooks - python.ipynb, numpy.ipynb, matplotlib-pyplot.ipynb
+  - Viedo lectures - python, numpy, matplotlib & pyplot
+  - "[From Python to Numpy](https://www.labri.fr/perso/nrougier/from-python-to-numpy/)" by Nicolas P. Rougier
+  - "[100 numpy exercises](https://github.com/rougier/numpy-100/blob/master/100_Numpy_exercises.ipynb)" by Nicolas P. Rougier
+
 * Introduction to deep learning, four branches ML (4.1)
   - Section 4.1 of DLP
 * Data representations for NN
