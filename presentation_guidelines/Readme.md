@@ -3,7 +3,7 @@ Learn to understand and analyze findings in a deep learning paper.
 
 ## Guidelines
 1. Read "[reading_a_cs_research_paper.pdf](https://github.com/badriadhikari/badriadhikari.github.io/blob/master/resources/reading_a_cs_research_paper.pdf)" and "[how_to_read_a_paper.pdf](https://github.com/badriadhikari/badriadhikari.github.io/blob/master/resources/how_to_read_a_paper.pdf)".
-2. Form a random group of 2 to 3 students
+2. Form a random group of 3 students
 3. Select a paper of your choice
    - NIPS 2019 - [Poster](https://nips.cc/Conferences/2019/Schedule?type=Poster) or [Oral](https://nips.cc/Conferences/2019/Schedule?type=Oral)
    - ECCV 2019 - [papers](http://openaccess.thecvf.com/ICCV2019.py)
@@ -13,7 +13,7 @@ Learn to understand and analyze findings in a deep learning paper.
 
 ## Evaluation Criteria
 
-1. Finishing your presentation between 3 and 4 minutes.
+1. Finishing your presentation within 10 minutes.
 
 1. What is the research problem the paper attempts to address?  
 What is the motivation of the research work? Is there a crisis in the research field that the paper attempts to resolve? Is the research work attempting to overcome the weaknesses of existing approaches? Is an existing research paradigm challenged? In short, what is the niche of the paper?
