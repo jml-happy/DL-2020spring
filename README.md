@@ -134,6 +134,10 @@
 * Project and requirements are described [here](PROJECT.md).
 
 ## Homeworks
+* There will be two kinds of homeworks: 1) writing chapter section summaries, and 2) project milestones.
+* For chapter summary homeworks you will submit a one page summary (at least 500 words) of the chapter sections.
+* All text must be "in your own words" and anything copied must be quoted and cited appropriately.
+* For project homeworks, see the project section.
 
 ## Presentations
 * See [PRESENTATIONS](PRESENTATIONS.md).
