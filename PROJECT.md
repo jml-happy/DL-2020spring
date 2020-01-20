@@ -1,7 +1,7 @@
 # Project Objectives
-1. Develop a feedforward neural network architectures for a pre-cleaned tabular dataset (NO time-series data, NO image data,  NO text data, only standard tabular data) with at least a 1000 rows and at least 3 input features (columns) using Tensorflow.
-1. Compare the performance with a logistic regression model (for classification) or linear regression model (for regression).
-1. Study, investigate and discuss "what", "how", and "why" your model makes predictions.
+1. Design, implement, debug, evaluate, and benchmark deep convolutional neural network architectures (and/or its variants) for a dataset created and curated by yourself with at least a 1000 images (NO pre-cleaned datasets, but you can collect images from the internet).
+1. Compare performance with a basic basic fully convolutional neural network model with a few filters and one or two layers.
+1. Study the effect of data augmentation, regularization, and transfer learning.
 
 # Project Expectations
 1. You will work on your projects individually (i.e. group submissions are not allowed).
@@ -10,27 +10,30 @@
 
 # Project Phases
 
-## 1. Data analysis & preparation
-1. Description of the dataset, its source, and motivation for the project
-1. Visualize/Plot the distribution of each input features and discuss the range of the values (min, max, mean, median, etc.)
-   - For example, plot histograms showing distribution of each input features
-1. Study the distribution of the output labels
-    - In case of classification, check if the data is imbalanced
-    - In case of regression, check if the values are uniformly distributed or not
-1. Data normalization
-1. Data spliting into training, and validation sets
+## 1. Data preparation
+1. Collect the images or take pictures
+1. Crop/resize them all to same dimensions (height = width)
+1. Visualize sample images and discuss the distribution of output labels
+1. Discuss data normalization
 
 **What to submit?**  
 a) A link to your Colab notebook (make sure that anyone with the link can view)  
 b) A PDF report describing your findings  
 
-## 2. Model selection & evaluation
+## 2. Build an overfitting model
 1. Compare the results of the neural network with a linear regression or logistic regression model
     - Start with a basic model and then grow your model into a multi-layered model
     - Discuss how neural network models will be selected
     - Document your performance comparison
 1. Study performance difference when linear activation is used instead of sigmoid (and vice versa)
    - How does your performance change when linear activations are used instead of sigmoid, in the last neuron and all other neurons?
+1. Data spliting into training, and validation sets
+
+a) what architecture do you need to overfit the data?
+b) what architecture do need to overfit when you have output as input?
+
+
+
 1. Plot your learning curves and include them in your report
 1. Discuss what architecture (how big) you need to overfit the data
 1. Discuss what architecture (how big) you do need to overfit when you have output as additional input feature
