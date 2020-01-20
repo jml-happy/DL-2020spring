@@ -57,14 +57,14 @@
   - Viedo lectures - python, numpy, matplotlib & pyplot
   - "[From Python to Numpy](https://www.labri.fr/perso/nrougier/from-python-to-numpy/)" and "[100 numpy exercises](https://github.com/rougier/numpy-100/blob/master/100_Numpy_exercises.ipynb)" by Nicolas P. Rougier
 
-* Introduction to deep learning - slides
+* Introduction to deep learning - [slides]
   - Sections 1.1, 1.2, 1.3, and 4.1
   - History of deep learning - Slide 14 at https://www.slideshare.net/LuMa921/deep-learning-a-visual-introduction
 
-* Data representations and tensor operations - slides
+* Data representations and tensor operations - [slides]
   - Sections 2.2, 2.3, and 2.4
 
-* Introduction to Keras - slides
+* Introduction to Keras - [slides]
   - Sections 3.2 and 3.3
 
 * Feed-forward neural networks
