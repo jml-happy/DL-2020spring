@@ -1,5 +1,7 @@
+
+
 ## Presentation Objective
-Learn to understand and analyze findings in a deep learning paper (NIPS papers).
+Learn to understand and analyze findings in a deep learning paper.
 
 ## Guidelines
 1. Read "reading_a_cs_research_paper.pdf" and "how_to_read_a_paper.pdf" in this folder.
