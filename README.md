@@ -47,9 +47,8 @@
 * All course materials are inside the relevant folders in Github location.
 
 ## Textbook  
-* "Deep Learning with Python" (DLP) by François Chollet 
-* "Machine Learning Yearning" (MLY) by Andrew Ng [pdf](https://www.deeplearning.ai/content/uploads/2018/09/Ng-MLY01-12.pdf)
-* "Deep Learning" (DL) by Ian Goodfellow, Yoshua Bengio, and Aaron Courville <br/> <br/> <img src="syllabus/dlwithpython.jpeg" align="middle" height="150"/>    <img src="syllabus/mlyearning.jpg" align="middle" height="150"/>    <img src="syllabus/dlgoodfellow.jpg" align="middle" height="150"/>  
+* Primary textbook: "Deep Learning with Python" by François Chollet by [Manning](https://www.manning.com/books/deep-learning-with-python); [pdf](http://faculty.neu.edu.cn/yury/AAI/Textbook/Deep%20Learning%20with%20Python.pdf); [examples](https://github.com/fchollet/deep-learning-with-python-notebooks) at GitHub 
+* Reference textbooks: "[Machine Learning Yearning](https://www.deeplearning.ai/content/uploads/2018/09/Ng-MLY01-12.pdf)" by Andrew Ng and "Deep Learning" by Ian Goodfellow, Yoshua Bengio, and Aaron Courville
 
 ## Course topics
 
