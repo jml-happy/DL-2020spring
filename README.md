@@ -53,13 +53,12 @@
 ## Course topics
 
 * Introduction to Python and Numpy
-  - Notebooks - python.ipynb, numpy.ipynb, matplotlib-pyplot.ipynb
-  - Viedo lectures - python, numpy, matplotlib & pyplot
+  - Notebooks - [python.ipynb], [numpy.ipynb], [matplotlib-pyplot.ipynb]
+  - Viedo lectures - [python], [numpy], [matplotlib & pyplot]
   - "[From Python to Numpy](https://www.labri.fr/perso/nrougier/from-python-to-numpy/)" and "[100 numpy exercises](https://github.com/rougier/numpy-100/blob/master/100_Numpy_exercises.ipynb)" by Nicolas P. Rougier
 
 * Introduction to deep learning - [slides]
   - Sections 1.1, 1.2, 1.3, and 4.1
-  - History of deep learning - Slide 14 at https://www.slideshare.net/LuMa921/deep-learning-a-visual-introduction
 
 * Data representations and tensor operations - [slides]
   - Sections 2.2, 2.3, and 2.4
@@ -67,8 +66,7 @@
 * Introduction to Keras - [slides]
   - Sections 3.2 and 3.3
 
-* Feed-forward neural networks
-  - Wine quality prediction - wine.ipynb
+* Feed-forward neural networks - [wine-quality-prediction.ipynb]
 
 * Deep learning practices - [slides]
   - Sections 7.1.2, 7.1.3, 7.1.4, and 7.1.5
@@ -76,35 +74,48 @@
 * Preparing images for deep learning - [slides]
   - Sections 3.6.2, 5.2.4, and 5.2.5
 
-* The convolution operation - [slides]
+* The convolution operation - [slides] [circle-rectangle.ipynb]
   - Section 5.1.1
-  - Activity: Training one convolution filter
 
-* Activations & loss functions
-Regression vs Binary
-https://gombru.github.io/2018/05/23/cross_entropy_loss/
+* Activations & loss functions - [slides]
+ 
+* Learning to classify digits using filters - [learn-to-classify-digits.ipynb]
 
-* Learning to classify digits using filters
-* Training, dev, and test set & Apply to MNIST
-* Evaluating ML models (4.2)
-* Feature engineering and feature learning
-* Overfitting and underfitting
-* Regularization
-* CNN architectures
+* Evaluating models - [slides] [mnist-train-dev-test.ipynb]
+  - Sections, 4.2, 4.2.1, 4.2.2 
+
+* Feature engineering and learning - [slides]
+  - Section 4.3
+
+* Overfitting, underfitting, & Regularization - [slides]
+  - Sections 4.4, 4.4.1, 4.4.2, and 4.4.3
+
+* Convolutional NN architectures - [slides] [video lecture]
+  - Sections 5.1.1, 5.1.2, and 7.1
   - Padding and Max-pooling
   - Classic architectures
   - Residual networks
   - Inception network & GoogLeNet
   - DenseNet and NASNet
-* The universal workflow of ML
-* Transfer learning
-* Capsule networks
+
+* Workflow of machine learning - [slides]
+  - Sections 4.5, 4.5.5, 4.5.6, and 4.5.7
+
+* Transfer learning - [slides]
+  - Section 5.3, 5.3.1, and 5.3.2
+
+* Capsule networks - [slides]
+
 * GPUs for deep learning
-https://www.microway.com/knowledge-center-articles/comparison-of-nvidia-geforce-gpus-and-nvidia-tesla-gpus/
-  - Discussion: GPU war + Multi-GPU training
-* Protein distance prediction
-* Explainable models
-* Limitations of DL and conclusion
+  - Discussion: GPU battle
+
+* Protein distance prediction - [slides]
+
+* Explainable models - [slides]
+  - Section 5.4
+
+* Limitations of DL and conclusion - [slides]
+  - Section 9.2
 
 ## Course schedule
 <img src="schedule.png" align="middle" width="600"/>
