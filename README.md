@@ -70,13 +70,13 @@
 * Feed-forward neural networks
   - Wine quality prediction - wine.ipynb
 
-* Deep learning practices - slides
+* Deep learning practices - [slides]
   - Sections 7.1.2, 7.1.3, 7.1.4, and 7.1.5
 
-* Preparing images for deep learning - slides
+* Preparing images for deep learning - [slides]
   - Sections 3.6.2, 5.2.4, and 5.2.5
 
-* The convolution operation - slides
+* The convolution operation - [slides]
   - Section 5.1.1
   - Activity: Training one convolution filter
 
