@@ -21,20 +21,10 @@
 * Explain what makes deep learning powerful compared to traditional machine learning methods 
 * Cover the basic computationsl foundations of deep learning such as vector operations 
 * Introduce the various flavors of deep learning such as dense neural networks, convolutional neural networks, and residual networks 
-* Delve into building, training, and using deep neural networks for solving various machine learning problems such as image classification and protein contact prediction
-* Cover how a deep learning architectures actually work and how to debug 
+* Cover how to build, train, and debug, and evaluate deep neural networks for solving various machine learning problems such as image classification and protein distance prediction
 
 ## Prerequisites  
 * CMPSCI 3130 (Design and Analysis of Algorithms) or Graduate Standing in CS
-
-## Learning outcomes  
-* Use Python, Numpy and Keras to design, train, and evaluate basic feed-forward neural networks
-* Learn an overview of artificial intelligence principles and approaches
-* Learn a basic understanding of the building blocks of AI as presented in terms of intelligent agents
-* Select and evaluate various searching algorithms
-* Understand some of the problems and ideas in the field of natural language processing, perception, and robotics
-* Learn the philosophical foundations of AI and the future of AI
-* Implement various AI algorithms such as DFS, BFS, etc.
 
 ## Course materials  
 * All course materials are inside the relevant folders in Github location.
