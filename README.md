@@ -27,7 +27,7 @@
 * CMPSCI 3130 (Design and Analysis of Algorithms) or Graduate Standing in CS
 
 ## Course materials  
-* All course materials are inside the relevant folders in Github location.
+* This syllabus has the links to all the course materials.
 
 ## Textbook  
 * Primary textbook: "Deep Learning with Python" by François Chollet by [Manning](https://www.manning.com/books/deep-learning-with-python); [pdf](http://faculty.neu.edu.cn/yury/AAI/Textbook/Deep%20Learning%20with%20Python.pdf); [examples](https://github.com/fchollet/deep-learning-with-python-notebooks) at GitHub 
