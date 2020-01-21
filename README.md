@@ -142,7 +142,9 @@
 ## Presentations
 * See [PRESENTATIONS](PRESENTATIONS.md).
 
-## Tests 
+## Tests  
+* There will be short tests (maximum 30 minutes) almost every week on Wednesdays (see the course schedule).
+* If you miss a test (on topic A) and send me an email by the end of next day with a valid reason, your score in the next test (on topic B) will be copied as your score for the test you missed. However, in the test that you appear, you may be asked questions from both topics (A and B) while all others will receive questions only on topic B.
 * Tests will be CLOSED book, CLOSED notes, and CLOSED electronics.
 * Use of any type of electronics is strictly forbidden during tests.
 
