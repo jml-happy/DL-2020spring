@@ -121,7 +121,7 @@
 * Once you use your late days, late submissions will get no points.
 
 ## Course project
-* Project requirements are described [here](PROJECT.md).
+* See [here](PROJECT.md).
 
 ## Homeworks
 * There will be two kinds of homeworks: 1) writing chapter section summaries, and 2) project milestones.
@@ -130,7 +130,7 @@
 * For project homeworks, see the project section.
 
 ## Presentations
-* See [PRESENTATIONS](PRESENTATIONS.md).
+* See [here](PRESENTATIONS.md).
 
 ## Tests  
 * There will be short tests (maximum 30 minutes) almost every week on Thursdays (see the course schedule).
