@@ -158,14 +158,14 @@
 * 1.5 bonus point to everyone in the class if 80%+ complete the course evaluation survey
 
 #### Project (40 points)
-* 5  points → Data preparation
-* 5  points → Build an overfitting model
+* 2.5 points → Data preparation
+* 2.5 points → Build an overfitting model
 * 5  points → Split & evaluate on test set
 * 5  points → Effects of augmentation
 * 5  points → Effects of regularization
-* 5  points → Use pretrained & residual archs.
-* 5  points = Addressing peer-reviews
-* 10 points = Poster presentation (score from external judges, peers, and instructor)
+* 5  points → Addressing of peer-review comments
+* 5  points → Use pretrained & residual archs
+* 10 points → Report and poster presentation (score from external judges, peers, and instructor)
 
 ## Grading scheme  
 <img src="syllabus/grades.png" align="middle" width="450"/>
