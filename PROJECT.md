@@ -1,5 +1,5 @@
 # Project Objectives
-1. Design, implement, debug, evaluate, and benchmark deep convolutional neural network architectures (and/or its variants) for a dataset created and curated by yourself with at least a 1000 images (NO pre-cleaned datasets, but you can collect images from the internet).
+1. Design, implement, debug, evaluate, and benchmark deep convolutional neural network architectures (and its variants) for a dataset created and curated by yourself with at least a 1000 images (NO pre-cleaned datasets, but you can collect images from the internet).
 1. Compare performance with a basic fully convolutional neural network model with a few filters and one or two layers.
 1. Study the effect of data augmentation, regularization, and transfer learning.
 
