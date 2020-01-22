@@ -36,8 +36,8 @@
 ## Course topics
 
 * Introduction to Python and Numpy
-  - Notebooks - [Python3](notebooks/python.ipynb), [Numpy](notebooks/numpy.ipynb), [Matplotlib & Pyplot](notebooks/matplotlib_pyplot.ipynb)
-  - Viedo lectures - [Python3], [Numpy](https://www.youtube.com/watch?v=Omz8P8n-5gY), [Matplotlib & Pyplot](https://youtu.be/aIzkkjRzVdA)
+  - Notebooks - [Python3](notebooks/python.ipynb), [Numpy](notebooks/numpy.ipynb), [Matplotlib & Plotly](notebooks/matplotlib_plotly.ipynb)
+  - Viedo lectures - [Python3], [Numpy](https://www.youtube.com/watch?v=Omz8P8n-5gY), [Matplotlib & Plotly](https://youtu.be/aIzkkjRzVdA)
   - "[From Python to Numpy](https://www.labri.fr/perso/nrougier/from-python-to-numpy/)" and "[100 numpy exercises](https://github.com/rougier/numpy-100/blob/master/100_Numpy_exercises.ipynb)" by Nicolas P. Rougier
 
 * Introduction to deep learning - [slides]
