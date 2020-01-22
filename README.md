@@ -36,7 +36,7 @@
 ## Course topics
 
 * Introduction to Python and Numpy
-  - Notebooks - [python.ipynb], [numpy.ipynb], [matplotlib-pyplot.ipynb]
+  - Notebooks - [python.ipynb](notebooks/python.ipynb), [numpy.ipynb](notebooks/numpy.ipynb), [matplotlib-pyplot.ipynb](notebooks/matplotlib-pyplot.ipynb)
   - Viedo lectures - [python], [numpy], [matplotlib & pyplot]
   - "[From Python to Numpy](https://www.labri.fr/perso/nrougier/from-python-to-numpy/)" and "[100 numpy exercises](https://github.com/rougier/numpy-100/blob/master/100_Numpy_exercises.ipynb)" by Nicolas P. Rougier
 
