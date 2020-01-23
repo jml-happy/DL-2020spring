@@ -82,6 +82,15 @@ c) Your poster
 d) A laptop for demonstration (if needed)  
 
 # Example Project
-The goal in this project is to develop a convolutional neural network model that can identify my mood looking at a picture of my face. Take 1000 pictures of your face in various settings - 200 smiling, 200 laughing, 200 sad, 200 crying, and 200 neutral. Then, tag each of those pictures manually. Next, randomly spit the data into - 600 pictures for training, 200 for validation, and 200 for testing. Crop images to 256 x 256 dimensions. Write a Python matplotlib code to visualize all the 1000 images. Next, build a single layer CNN model with 64 filters. Data augmentation could significantly improve the performance. The 5-class accuracy of a random classifier is 20% (baseline for the project). [Here](https://github.com/jnkx9c/DL_Project) is an actual project by Jeff Killgore, a student who took this course in Spring 2019.
+The goal in this project is to develop a convolutional neural network model that can identify my mood looking at a picture of my face. Here are the steps involved:
+1. Take 1000 pictures of my face in various settings - smiling, laughing, sad, crying, and neutral - 200 images each. Then, label each of these pictures.
+1. Crop images to 256 x 256 dimensions.
+1. Write a Python matplotlib code to visualize all the 1000 images. 
+1. Randomly spit the data into - 600 pictures for training, 200 for validation, and 200 for testing. 
+1. Build a single layer CNN model with 64 filters, train the model, and evaluate the model on the test set. It is worth noting that the 5-class accuracy of a random classifier is 20% (baseline for the project).
+1. Apply data augmentation techniques and regularization techniques to improve performance.
+1. Build and test newer architectures such as ResNets and pre-trained models such as VGG-16.
+
+Also, [here](https://github.com/jnkx9c/DL_Project) is an actual project by Jeff Killgore, a student who took this course in Spring 2019.
 
 <img src="syllabus/mood-classification-project.png" align="middle" width="800"/>
