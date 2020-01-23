@@ -23,7 +23,7 @@
 * Understand what makes deep learning different and powerful compared to traditional machine learning practices
 * Understand the parameters and hyper-parameters in a deep neural network
 * Design, develop, train, debug, and evaluate deep neural networks
-* Learn how to transfer the knowledge in pre-trained deep learning models into a dataset of choice
+* Learn how to transfer the knowledge in pre-trained deep learning models to build models for new datasets
 
 ## Prerequisites  
 * CMPSCI 3130 (Design and Analysis of Algorithms) or Graduate Standing in CS
