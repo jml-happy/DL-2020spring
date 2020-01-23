@@ -45,7 +45,7 @@
 * Introduction to deep learning - [slides](https://docs.google.com/presentation/d/12xzql-fPXfoecYB0UWL8KCvkTP-OO_UH3R9-c_yPxgg/edit?usp=sharing)
   - Sections 1.1, 1.2, 1.3, and 4.1
 
-* Data representations & tensor operations - [slides]
+* Data representations & tensor operations - [slides](https://docs.google.com/presentation/d/1jFkusgXRn05_slfSVBRkVxyNa3n7U1rQJa5vS8QwSko/edit?usp=sharing)
   - Sections 2.2, 2.3, and 2.4
 
 * Introduction to Keras - [slides]
