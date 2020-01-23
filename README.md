@@ -16,12 +16,14 @@
 **Catalog Description**
 * This course reviews a typical machine learning recipe, mathematical foundations for deep learning, and provides an introduction to deep learning. Topics include dense neural networks, convolutional neural networks, and recurrent neural networks. The course will cover building, training, and using deep neural networks for solving various machine learning problems like image classification and protein contact prediction. Credit cannot be granted for both CMP SCI 4390 and CMP SCI 5390. \[3 credit units\].
 
-**This course aims to:** 
-* Revise the recipe for machine learning and introduce deep learning
-* Explain what makes deep learning powerful compared to traditional machine learning methods 
-* Cover the basic computationsl foundations of deep learning such as vector operations 
-* Introduce the various flavors of deep learning such as dense neural networks, convolutional neural networks, and residual networks 
-* Cover how to build, train, and debug, and evaluate deep neural networks for solving various machine learning problems such as image classification and protein distance prediction
+**Upon completing the course students will be able to:**
+* Write Numpy and Tensorflow programs for building deep learning applications
+* Learn computational foundations of machine learning and deep learning
+* Learn the major technology trends in deep learning such as convolutional neural networks, residual neural networks, and capsule networks
+* Understand what makes deep learning different and powerful compared to traditional machine learning practices
+* Understand the parameters and hyper-parameters in a deep neural network
+* Design, develop, train, debug, and evaluate deep neural networks
+* Learn how to transfer the knowledge in pre-trained deep learning models into a dataset of choice
 
 ## Prerequisites  
 * CMPSCI 3130 (Design and Analysis of Algorithms) or Graduate Standing in CS
