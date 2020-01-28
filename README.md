@@ -48,7 +48,7 @@
 * Data representations & tensor operations - [slides](https://docs.google.com/presentation/d/1jFkusgXRn05_slfSVBRkVxyNa3n7U1rQJa5vS8QwSko/edit?usp=sharing)
   - Sections 2.2, 2.3, and 2.4
 
-* Introduction to Keras - [slides]
+* Introduction to Keras - [slides](https://docs.google.com/presentation/d/1uiI-RN9ThSXe1zpXu30INXqPUoUJaCVGFAwYF5jtlto/edit?usp=sharing)
   - Sections 3.2 and 3.3
 
 * Feed-forward neural networks - [wine-quality-prediction.ipynb]
