@@ -51,10 +51,7 @@
 * Introduction to Keras - [slides](https://docs.google.com/presentation/d/1uiI-RN9ThSXe1zpXu30INXqPUoUJaCVGFAwYF5jtlto/edit?usp=sharing)
   - Sections 3.2 and 3.3
 
-* Feed-forward neural networks - [wine-quality-prediction.ipynb]
-
-* Deep learning practices - [slides]
-  - Sections 7.1.2, 7.1.3, 7.1.4, and 7.1.5
+* Feed-forward neural networks - [wine-quality.ipynb](./notebooks/wine-quality.ipynb)
 
 * Preparing images for deep learning - [slides]
   - Sections 3.6.2, 5.2.4, and 5.2.5
@@ -100,6 +97,9 @@
 
 * Explainable models - [slides]
   - Section 5.4
+
+* Deep learning practices - [slides]
+  - Sections 7.1.2, 7.1.3, 7.1.4, and 7.1.5
 
 * Limitations of DL & conclusions - [slides]
   - Section 9.2
