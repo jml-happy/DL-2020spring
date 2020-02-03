@@ -51,7 +51,7 @@
 * Introduction to Keras - [slides](https://docs.google.com/presentation/d/1uiI-RN9ThSXe1zpXu30INXqPUoUJaCVGFAwYF5jtlto/edit?usp=sharing)
   - Sections 3.2 and 3.3
 
-* Feed-forward neural networks - [wine-quality.ipynb](./notebooks/wine-quality.ipynb)
+* Feed-forward neural networks - [wine_quality.ipynb](./notebooks/wine_quality.ipynb)
 
 * Preparing images for deep learning - [slides]
   - Sections 3.6.2, 5.2.4, and 5.2.5
