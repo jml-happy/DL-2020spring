@@ -51,6 +51,8 @@
 * Introduction to Keras - [slides](https://docs.google.com/presentation/d/1uiI-RN9ThSXe1zpXu30INXqPUoUJaCVGFAwYF5jtlto/edit?usp=sharing)
   - Sections 3.2 and 3.3
 
+* Training must stop - [slides](https://docs.google.com/presentation/d/1DEU6qG_xZE6wpAJDaOL7yLWuoyljZv2EER1cbY9kObo/edit?usp=sharing)
+
 * Feed-forward neural networks - [wine_quality.ipynb](./notebooks/wine_quality.ipynb)
 
 * Preparing images for deep learning - [slides]
