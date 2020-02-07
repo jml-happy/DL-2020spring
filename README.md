@@ -6,7 +6,7 @@
 [UMSL Academic Calendar](https://www.umsl.edu/services/academic/publications/calendar/academic%20calendar%202019-2020.pdf) | [Resources & Support](https://umsl.instructure.com/courses/44471/pages/student-resources-and-supports?module_item_id=454221) | [Technology Assistance](https://umsl.instructure.com/courses/44471/pages/technology-assistance?module_item_id=454223) | [Final Exam Schedule](https://www.umsl.edu/~registration/final-exams.html)
 
 ## Class and office hours
-* Instructor: [Badri Adhikari](https://badriadhikari.github.io) | [adhikarib@umsl.edu](mailto:adhikarib@umsl.edu)
+* Instructor: [Badri Adhikari](http://umsl.edu/~adhikarib) | [adhikarib@umsl.edu](mailto:adhikarib@umsl.edu)
 * Class meets: `TuTh 6:55PM to 8:10PM` at `Clark Hall 306`
 * Office location and hours: `312 Express Scripts Hall`, `Mondays 1PM to 4PM` 
 
@@ -39,22 +39,21 @@
 
 * Introduction to Python and Numpy
   - Notebooks - [Python3](notebooks/python.ipynb), [Numpy](notebooks/numpy.ipynb), [Matplotlib & Plotly](notebooks/matplotlib_plotly.ipynb)
-  - Viedo lectures - [Colab](https://www.youtube.com/watch?v=PVsS9WtwVB8), [Python3](https://studio.youtube.com/video/V42qfAPybp8), [Numpy](https://www.youtube.com/watch?v=Omz8P8n-5gY), [Matplotlib & Plotly](https://youtu.be/aIzkkjRzVdA)
+  - Viedo lectures - [Colab](https://www.youtube.com/watch?v=PVsS9WtwVB8), [Python3](https://youtube.com/watch?v=V42qfAPybp8), [Numpy](https://www.youtube.com/watch?v=Omz8P8n-5gY), [Matplotlib & Plotly](https://youtu.be/aIzkkjRzVdA)
   - "[From Python to Numpy](https://www.labri.fr/perso/nrougier/from-python-to-numpy/)" and "[100 numpy exercises](https://github.com/rougier/numpy-100/blob/master/100_Numpy_exercises.ipynb)" by Nicolas P. Rougier
 
 * Introduction to deep learning - [slides](https://docs.google.com/presentation/d/12xzql-fPXfoecYB0UWL8KCvkTP-OO_UH3R9-c_yPxgg/edit?usp=sharing)
   - Sections 1.1, 1.2, 1.3, and 4.1
 
-* Data representations & tensor operations - [slides]
+* Data representations & tensor operations - [slides](https://docs.google.com/presentation/d/1jFkusgXRn05_slfSVBRkVxyNa3n7U1rQJa5vS8QwSko/edit?usp=sharing)
   - Sections 2.2, 2.3, and 2.4
 
-* Introduction to Keras - [slides]
+* Introduction to Keras - [slides](https://docs.google.com/presentation/d/1uiI-RN9ThSXe1zpXu30INXqPUoUJaCVGFAwYF5jtlto/edit?usp=sharing)
   - Sections 3.2 and 3.3
 
-* Feed-forward neural networks - [wine-quality-prediction.ipynb]
+* Training must stop - [slides](https://docs.google.com/presentation/d/1DEU6qG_xZE6wpAJDaOL7yLWuoyljZv2EER1cbY9kObo/edit?usp=sharing)
 
-* Deep learning practices - [slides]
-  - Sections 7.1.2, 7.1.3, 7.1.4, and 7.1.5
+* Feed-forward neural networks - [wine_quality.ipynb](./notebooks/wine_quality.ipynb)
 
 * Preparing images for deep learning - [slides]
   - Sections 3.6.2, 5.2.4, and 5.2.5
@@ -101,6 +100,9 @@
 * Explainable models - [slides]
   - Section 5.4
 
+* Deep learning practices - [slides]
+  - Sections 7.1.2, 7.1.3, 7.1.4, and 7.1.5
+
 * Limitations of DL & conclusions - [slides]
   - Section 9.2
 
@@ -129,6 +131,7 @@
 * There will be two kinds of homeworks: 1) writing chapter section summaries, and 2) project milestones.
 * For chapter summary homeworks you will submit a one page summary (at least 500 words) of the chapter sections.
 * All text must be "in your own words" and anything copied must be quoted and cited appropriately.
+* All reports including the final report must be prepared using <a href="https://www.overleaf.com/">Overleaf</a>.
 * For project homeworks, see the project section.
 
 ## Presentations
