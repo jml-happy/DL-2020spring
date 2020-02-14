@@ -7,6 +7,7 @@ Learn to understand and analyze findings in a deep learning paper.
 3. Select a paper of your choice from NIPS 2019 ([poster](https://nips.cc/Conferences/2019/Schedule?type=Poster) or [oral](https://nips.cc/Conferences/2019/Schedule?type=Oral)), [ECCV 2019](http://openaccess.thecvf.com/ICCV2019.py) and [CVPR 2019](http://cvpr2019.thecvf.com/program/main_conference).
 4. Prepare slides to present your understanding/analysis of the paper.
 5. You will have maximum 10 minutes to present.
+6. Present what you understand and understand what you present.
 
 ## Evaluation Criteria
 
