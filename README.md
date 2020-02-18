@@ -55,7 +55,7 @@
 
 * Feed-forward neural networks - [wine_quality.ipynb](./notebooks/wine_quality.ipynb)
 
-* Preparing images for deep learning - [slides](https://docs.google.com/presentation/d/1syD38eJp6aBnwuCWXNv7yrxhdn3U_KwQKvpo90ZDeNI/edit?usp=sharing) [notebook](./notebooks/Image_preprocessing.ipynb)
+* Preparing images for deep learning - [slides](https://docs.google.com/presentation/d/1syD38eJp6aBnwuCWXNv7yrxhdn3U_KwQKvpo90ZDeNI/edit?usp=sharing) / [notebook](./notebooks/Image_preprocessing.ipynb)
   - Sections 3.6.2, 5.2.4, and 5.2.5
 
 * The convolution operation - [slides] [circle-rectangle.ipynb]
