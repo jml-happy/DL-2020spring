@@ -106,8 +106,6 @@
   - Section 9.2
 
 ## Course schedule
-<img src="schedule.png" align="middle" width="700"/>
-
 * Detailed course schedule is [here](https://docs.google.com/spreadsheets/d/e/2PACX-1vRF6jdD5-whvlX-1mbKLpnryHVr8dIcKUbJcfg-Kx6WH7PkiXNRgLwyaQFO8svZWfxtaccjYpef0mpm/pubhtml?gid=1410243905&single=true).
 
 ## General policies
