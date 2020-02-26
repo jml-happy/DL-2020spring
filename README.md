@@ -58,10 +58,11 @@
 * Preparing images for deep learning - [slides](https://docs.google.com/presentation/d/1syD38eJp6aBnwuCWXNv7yrxhdn3U_KwQKvpo90ZDeNI/edit?usp=sharing) / [notebook](./notebooks/Image_preprocessing.ipynb)
   - Sections 3.6.2, 5.2.4, and 5.2.5
 
-* The convolution operation - [slides](https://docs.google.com/presentation/d/1uesCp63vUgzrgROJ7c3VfA5VyCR17W6czayhnWHj9AI/edit?usp=sharing) / [notebook](./notebooks/Detect_rectangle.ipynb)
+* The convolution operation - [slides](https://docs.google.com/presentation/d/1uesCp63vUgzrgROJ7c3VfA5VyCR17W6czayhnWHj9AI/edit?usp=sharing) / [notebook](./notebooks/Detect_rectangles.ipynb)
   - Section 5.1.1
 
 * Activations & loss functions - [slides]
+  - Section 4.5.5, and Table 4.1
  
 * Learning to classify digits using filters - [learn-to-classify-digits.ipynb]
   - Classroom activity: Split MNIST into train, dev, and test set and learn a model
@@ -140,6 +141,7 @@
 * If you miss a test (on topic A) and send me an email by the end of next day with a valid reason, your score in the next test (on topic B) will be copied as your score for the test you missed. However, in the test that you appear, you may be asked questions from both topics (A and B) while all others will receive questions only on topic B.
 * Tests will be CLOSED book, CLOSED notes, and CLOSED electronics.
 * Use of any type of electronics is strictly forbidden during tests.
+* It is your responsibility to contact the instructor if you miss a test. If you don't, a grade of zero points will be assgined for the test you miss.
 
 ## Attendance  
 * Attendance will be recorded frequently
