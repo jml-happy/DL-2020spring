@@ -61,7 +61,7 @@
 * The convolution operation - [slides](https://docs.google.com/presentation/d/1uesCp63vUgzrgROJ7c3VfA5VyCR17W6czayhnWHj9AI/edit?usp=sharing) / [notebook](./notebooks/Detect_rectangles.ipynb)
   - Section 5.1.1
 
-* Activations & loss functions - [slides]
+* Activations & loss functions - [slides](https://docs.google.com/presentation/d/17Gx0Iaov1MuNRXWHAeIUQvz0wpdKWTaIAVQVyRrt-cs/edit?usp=sharing)
   - Section 4.5.5, and Table 4.1
  
 * Learning to classify digits using filters - [learn-to-classify-digits.ipynb]
