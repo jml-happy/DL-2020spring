@@ -21,9 +21,9 @@ a) A link to your Colab notebook (make sure that anyone with the link can view)
 b) A PDF report describing your findings  
 
 ## 2. Build an overfitting model
-1. Build a large model (with many filters and many layers) to obtain close to 100% accuracy
-1. Study the performance when the number of filters and layers are increased
-1. If you provide the output as the input (as an additional channel) what is the smallest architecture you need to overfit the data?
+1. Using all the data (i.e. without splitting) obtain close to 100% accuracy. Build as large model as you need (with many filters and many layers).
+1. How does the performance (accuracy, precision, recall, etc.) change when the number of filters and layers are increased/decreased?
+1. If you provide the output as the input (as an additional channel) what is the smallest architecture (minimum number of layers and filters) you need to overfit the data?
    ```python
    # Example of how to use output labels as additional input channel
    import numpy as np
