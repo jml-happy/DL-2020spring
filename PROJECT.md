@@ -24,6 +24,20 @@ b) A PDF report describing your findings
 1. Build a large model (with many filters and many layers) to obtain close to 100% accuracy
 1. Study the performance when the number of filters and layers are increased
 1. If you provide the output as the input (as an additional channel) what is the smallest architecture you need to overfit the data?
+   ```python
+   # Example of how to use output labels as additional input channel
+   import numpy as np
+   N = len(xtrain[:, 0, 0, 0])
+   L = len(xtrain[0, :, 0, 0])
+   xtrain_with_outputlabels = np.zeros((N, L, L, 2))
+   for i in range(len(xtrain)):
+      existing = xtrain[i, :, :, :]
+      newchannel = np.full((L, L), ytrain_original[i]).reshape(L, L, 1)
+      x = np.concatenate((existing, newchannel), axis = -1)
+      print(existing.shape, newchannel.shape, x.shape)
+      xtrain_with_outputlabels[i] = x
+      break
+    ```
 1. Plot your learning curves and include them in your report
 
 **What to submit?**  
