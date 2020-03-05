@@ -64,8 +64,7 @@
 * Activations & loss functions - [slides](https://docs.google.com/presentation/d/17Gx0Iaov1MuNRXWHAeIUQvz0wpdKWTaIAVQVyRrt-cs/edit?usp=sharing)
   - Section 4.5.5, and Table 4.1
  
-* Learning to classify digits using filters - [learn-to-classify-digits.ipynb]
-  - Classroom activity: Split MNIST into train, dev, and test set and learn a model
+* Classify MNIST digits using a CNN - [notebook](./notebooks/MNIST_v1.ipynb)
 
 * Evaluating models - [slides] [mnist-train-dev-test.ipynb]
   - Sections, 4.2, 4.2.1, 4.2.2 
