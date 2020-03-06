@@ -38,12 +38,12 @@ b) A PDF report describing your findings
       xtrain_with_outputlabels[i] = x
       break
     ```
-   If you load your data using data generators, you can do something like the following to obtain your `xtrain` and `ytrain_original`:
+   If you are using data generators, you can do something like the following to obtain your `xtrain` and `ytrain_original`:
    ```python
    # Empty placeholders for 1000 RGB images and their labels
    mydatax = np.zeros(1000, 256, 256, 3)
    mydatay = np.zeros(1000, 1)
-   # 
+   # Read everything from your generator
    for i in range(1000):
       x, y = your_generator()
       mydatax[i] = x
