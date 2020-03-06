@@ -38,6 +38,17 @@ b) A PDF report describing your findings
       xtrain_with_outputlabels[i] = x
       break
     ```
+   If you load your data using data generators, you can do something like the following to obtain your `xtrain` and `ytrain_original`:
+   ```python
+   # Empty placeholders for 1000 RGB images and their labels
+   mydatax = np.zeros(1000, 256, 256, 3)
+   mydatay = np.zeros(1000, 1)
+   # 
+   for i in range(1000):
+      x, y = your_generator()
+      mydatax[i] = x
+      mydatay[i] = y
+   ```
 1. Plot your learning curves and include them in your report
 
 **What to submit?**  
