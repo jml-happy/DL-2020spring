@@ -66,7 +66,7 @@
  
 * Classify MNIST digits using a CNN - [notebook](./notebooks/MNIST_v1.ipynb)
 
-* Evaluating models - [slides] [mnist-train-dev-test.ipynb]
+* Evaluating models - [slides](https://docs.google.com/presentation/d/1g8rzgspsYU90QtSV99hcA2_ojxJMwRdcw7KK55KNyMA/edit?usp=sharing)
   - Sections, 4.2, 4.2.1, 4.2.2 
 
 * Feature engineering & learning - [slides]
