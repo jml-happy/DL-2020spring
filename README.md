@@ -69,7 +69,7 @@
 * Evaluating models - [slides](https://docs.google.com/presentation/d/1g8rzgspsYU90QtSV99hcA2_ojxJMwRdcw7KK55KNyMA/edit?usp=sharing)
   - Sections, 4.2, 4.2.1, 4.2.2 
 
-* Feature engineering & learning - [slides]
+* Feature engineering - [slides](https://docs.google.com/presentation/d/14k2vUTlJThQ0u8RVc0C68_92K1Df5YW0v85C5w3nFe8/edit?usp=sharing)
   - Section 4.3
 
 * Overfitting, underfitting, & regularization - [slides]
