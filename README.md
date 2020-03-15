@@ -66,10 +66,10 @@
  
 * Classify MNIST digits using a CNN - [notebook](./notebooks/MNIST_v1.ipynb)
 
-* Evaluating models - [slides] [mnist-train-dev-test.ipynb]
+* Evaluating models - [slides](https://docs.google.com/presentation/d/1g8rzgspsYU90QtSV99hcA2_ojxJMwRdcw7KK55KNyMA/edit?usp=sharing)
   - Sections, 4.2, 4.2.1, 4.2.2 
 
-* Feature engineering & learning - [slides]
+* Feature engineering - [slides](https://docs.google.com/presentation/d/14k2vUTlJThQ0u8RVc0C68_92K1Df5YW0v85C5w3nFe8/edit?usp=sharing)
   - Section 4.3
 
 * Overfitting, underfitting, & regularization - [slides]
@@ -144,7 +144,7 @@
 
 ## Attendance  
 * Attendance will be recorded frequently
-* More than 5 uninformed absenses may lead to failing the course
+* More than 5 uninformed absenses may lead to failing the course  (This requirement is waived due to the COVID-19)
   
 ## Grade composition  
 * 10 Tests → 10 * 3 points

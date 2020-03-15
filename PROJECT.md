@@ -1,5 +1,6 @@
 # Project Objectives
-1. Design, implement, debug, evaluate, and benchmark deep convolutional neural network architectures (and its variants) for a dataset created and curated by yourself with at least a 1000 images (NO pre-cleaned datasets, but you can collect images from the internet).
+1. Design, implement, debug, evaluate, and benchmark deep convolutional neural network architectures (and its variants) for a dataset created and curated by yourself with at least a 1000 images (NO pre-cleaned datasets, but you can collect images from the internet).  
+    Professor Andrew Ng talks about the value of working on your own datadet in [this](https://youtu.be/1k37OcjH7BM) podcast.
 1. Compare performance with a basic fully convolutional neural network model with a few filters and one or two layers.
 1. Study the effect of data augmentation, regularization, and transfer learning.
 
@@ -38,6 +39,17 @@ b) A PDF report describing your findings
       xtrain_with_outputlabels[i] = x
       break
     ```
+   If you are using data generators, you can do something like the following to obtain your `xtrain` and `ytrain_original`:
+   ```python
+   # Empty placeholders for 1000 RGB images and their labels
+   mydatax = np.zeros(1000, 256, 256, 3)
+   mydatay = np.zeros(1000, 1)
+   # Read everything from your generator
+   for i in range(1000):
+      x, y = your_generator()
+      mydatax[i] = x
+      mydatay[i] = y
+   ```
 1. Plot your learning curves and include them in your report
 
 **What to submit?**  
