@@ -1,6 +1,6 @@
 # Project Objectives
 1. Design, implement, debug, evaluate, and benchmark deep convolutional neural network architectures (and its variants) for a dataset created and curated by yourself with at least a 1000 images (NO pre-cleaned datasets, but you can collect images from the internet).  
-   Why create your own dataset? Andrew Ng talks about it in [this](https://youtu.be/1k37OcjH7BM) podcast.
+    Professor Andrew Ng talks about the value of working on your own datadet in [this](https://youtu.be/1k37OcjH7BM) podcast.
 1. Compare performance with a basic fully convolutional neural network model with a few filters and one or two layers.
 1. Study the effect of data augmentation, regularization, and transfer learning.
 
