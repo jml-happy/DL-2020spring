@@ -148,12 +148,15 @@
   
 ## Grade composition  
 * Before spring break:
-  * 10 Tests → 10 * 3 points
-  * 10 Homeworks → 10 * 2 points
-  * 3 Presentations → 3 * 3.34 points
-  * 1 Project → 40 points
-  * 1.5 bonus point to everyone in the class if 80%+ complete the course evaluation survey
-* After spring break
+  * 5 Tests → 5 * 3 points
+  * 5 Homeworks → 5 * 2 points
+  * 1 Homework → 3 points (learning to learn online)
+  * 1 Presentation → 1 * 3.34 points
+  * 2 Project phases → 5 points
+  * ~~1.5 bonus point to everyone in the class if 80%+ complete the course evaluation survey~~
+* After spring break:
+  * 5 Homeworks → 5 * 5 points
+  * Remaining project phases → 35 points
 
 #### Project (40 points)
 * 2.5 points → Data preparation
