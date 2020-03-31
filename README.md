@@ -37,23 +37,23 @@
 
 ## Course topics
 
-* Introduction to Python and Numpy
+1. Introduction to Python and Numpy
   - Notebooks - [Python3](notebooks/python.ipynb), [Numpy](notebooks/numpy.ipynb), [Matplotlib & Plotly](notebooks/matplotlib_plotly.ipynb)
   - Viedo lectures - [Colab](https://www.youtube.com/watch?v=PVsS9WtwVB8), [Python3](https://youtube.com/watch?v=V42qfAPybp8), [Numpy](https://www.youtube.com/watch?v=Omz8P8n-5gY), [Matplotlib & Plotly](https://youtu.be/aIzkkjRzVdA)
   - "[From Python to Numpy](https://www.labri.fr/perso/nrougier/from-python-to-numpy/)" and "[100 numpy exercises](https://github.com/rougier/numpy-100/blob/master/100_Numpy_exercises.ipynb)" by Nicolas P. Rougier
 
-* Introduction to deep learning - [slides](https://docs.google.com/presentation/d/12xzql-fPXfoecYB0UWL8KCvkTP-OO_UH3R9-c_yPxgg/edit?usp=sharing)
+1. Introduction to deep learning - [slides](https://docs.google.com/presentation/d/12xzql-fPXfoecYB0UWL8KCvkTP-OO_UH3R9-c_yPxgg/edit?usp=sharing)
   - Sections 1.1, 1.2, 1.3, and 4.1
 
-* Data representations & tensor operations - [slides](https://docs.google.com/presentation/d/1jFkusgXRn05_slfSVBRkVxyNa3n7U1rQJa5vS8QwSko/edit?usp=sharing)
+1. Data representations & tensor operations - [slides](https://docs.google.com/presentation/d/1jFkusgXRn05_slfSVBRkVxyNa3n7U1rQJa5vS8QwSko/edit?usp=sharing)
   - Sections 2.2, 2.3, and 2.4
 
-* Introduction to Keras - [slides](https://docs.google.com/presentation/d/1uiI-RN9ThSXe1zpXu30INXqPUoUJaCVGFAwYF5jtlto/edit?usp=sharing)
+1. Introduction to Keras - [slides](https://docs.google.com/presentation/d/1uiI-RN9ThSXe1zpXu30INXqPUoUJaCVGFAwYF5jtlto/edit?usp=sharing)
   - Sections 3.2 and 3.3
 
-* Training must stop - [slides](https://docs.google.com/presentation/d/1DEU6qG_xZE6wpAJDaOL7yLWuoyljZv2EER1cbY9kObo/edit?usp=sharing)
+1. Training must stop - [slides](https://docs.google.com/presentation/d/1DEU6qG_xZE6wpAJDaOL7yLWuoyljZv2EER1cbY9kObo/edit?usp=sharing)
 
-* Feed-forward neural networks - [wine_quality.ipynb](./notebooks/wine_quality.ipynb)
+1. Feed-forward neural networks - [wine_quality.ipynb](./notebooks/wine_quality.ipynb)
 
 * Preparing images for deep learning - [slides](https://docs.google.com/presentation/d/1syD38eJp6aBnwuCWXNv7yrxhdn3U_KwQKvpo90ZDeNI/edit?usp=sharing) / [notebook](./notebooks/Image_preprocessing.ipynb)
   - Sections 3.6.2, 5.2.4, and 5.2.5
