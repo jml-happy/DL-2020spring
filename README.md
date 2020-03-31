@@ -131,10 +131,10 @@
 * All reports including the final report must be prepared using <a href="https://www.overleaf.com/">Overleaf</a>.
 * For project homeworks, see the project section.
 
-##~~Presentations~~
+## ~~Presentations~~
 * See [here](PRESENTATIONS.md).
 
-##~~Tests~~
+## ~~Tests~~
 * There will be short tests (maximum 30 minutes) almost every week on Thursdays (see the course schedule).
 * On the tests, you may be asked to find the output of a program/code-block but not to write complete programs.
 * If you miss a test (on topic A) and send me an email by the end of next day with a valid reason, your score in the next test (on topic B) will be copied as your score for the test you missed. However, in the test that you appear, you may be asked questions from both topics (A and B) while all others will receive questions only on topic B.
@@ -142,7 +142,7 @@
 * Use of any type of electronics is strictly forbidden during tests.
 * It is your responsibility to contact the instructor if you miss a test. If you don't, a grade of zero points will be assgined for the test you miss.
 
-##~~Attendance~~
+## ~~Attendance~~
 * Attendance will be recorded frequently
 * More than 5 uninformed absenses may lead to failing the course  (This requirement is waived due to the COVID-19)
   
