@@ -73,6 +73,9 @@
 1. Overfitting, underfitting, & regularization - [slides]
    - Sections 4.4, 4.4.1, 4.4.2, and 4.4.3
 
+1. Workflow of machine learning - [slides]
+   - Sections 4.5, 4.5.5, 4.5.6, and 4.5.7
+
 1. Convolutional NN architectures - [slides] [video lecture]
    - Sections 5.1.1, 5.1.2, and 7.1
    - Padding and Max-pooling
@@ -80,9 +83,6 @@
    - Residual networks
    - Inception network & GoogLeNet
    - DenseNet and NASNet
-
-1. Workflow of machine learning - [slides]
-   - Sections 4.5, 4.5.5, 4.5.6, and 4.5.7
 
 1. Transfer learning - [slides]
    - Section 5.3, 5.3.1, and 5.3.2
