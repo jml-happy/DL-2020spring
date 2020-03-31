@@ -7,8 +7,8 @@
 
 ## Class and office hours
 * Instructor: [Badri Adhikari](http://umsl.edu/~adhikarib) | [adhikarib@umsl.edu](mailto:adhikarib@umsl.edu)
-* Class meets: `TuTh 6:55PM to 8:10PM` at `Clark Hall 306`
-* Office location and hours: `312 Express Scripts Hall`, `Mondays 1PM to 4PM` 
+* Class meets: `TuTh 6:55PM to 8:10PM`~~at `Clark Hall 306`~~
+* Office location and hours: by email ~~`312 Express Scripts Hall`, `Mondays 1PM to 4PM`~~
 
 ## About the course
 * Deep learning is popular because of its high applicability and superior performance in domains where we use machine learning. Deep learning based applications have reached or surpassed human performance not only for industrial problems like object classification, speech recognition, and stock market prediction but also for many problems in the field of biology and medicine. Recently, deep learning is demonstrated to outperform human radiologists in detecting pneumonia from chest X-rays. It is also reliably used in iPhone-X for unlocking the phone through accurate face detection. Self-driving cars drive using the deep learning algorithms. Deep learning will soon replace humans in most domains of human mental labor. This course reviews a typical machine learning recipe, computational foundations for deep learning, and provides an introduction to deep learning of dense neural networks. The course will focus on building, training, and evaluating deep convolutional neural networks for solving various machine learning problems, particularly the ones relating to image data. At the end of the course you will also be able to differentiate what kinds of problems are best solved by deep learning algorithms and what are not, and develop your own deep learning applications. You will also learn major technology trends in deep learning and understand what makes it different from traditional machine learning.
@@ -117,7 +117,7 @@
 * Python3 is language for the course; you are expected to use Python3 for all of your classroom activities, homeworks, and project.
 * You are also required to use [Google colab](https://colab.research.google.com) or your own hosted Jupyter Notebook for running your programs.
 
-## Late policy  
+## ~~Late policy~~  
 * You have a total of 5 late days.
 * Once you use your late days, late submissions will get no points.
 
@@ -131,10 +131,10 @@
 * All reports including the final report must be prepared using <a href="https://www.overleaf.com/">Overleaf</a>.
 * For project homeworks, see the project section.
 
-## Presentations
+##~~Presentations~~
 * See [here](PRESENTATIONS.md).
 
-## Tests  
+##~~Tests~~
 * There will be short tests (maximum 30 minutes) almost every week on Thursdays (see the course schedule).
 * On the tests, you may be asked to find the output of a program/code-block but not to write complete programs.
 * If you miss a test (on topic A) and send me an email by the end of next day with a valid reason, your score in the next test (on topic B) will be copied as your score for the test you missed. However, in the test that you appear, you may be asked questions from both topics (A and B) while all others will receive questions only on topic B.
@@ -142,16 +142,18 @@
 * Use of any type of electronics is strictly forbidden during tests.
 * It is your responsibility to contact the instructor if you miss a test. If you don't, a grade of zero points will be assgined for the test you miss.
 
-## Attendance  
+##~~Attendance~~
 * Attendance will be recorded frequently
 * More than 5 uninformed absenses may lead to failing the course  (This requirement is waived due to the COVID-19)
   
 ## Grade composition  
-* 10 Tests → 10 * 3 points
-* 10 Homeworks → 10 * 2 points
-* 3 Presentations → 3 * 3.34 points
-* 1 Project → 40 points
-* 1.5 bonus point to everyone in the class if 80%+ complete the course evaluation survey
+* Before spring break:
+  * 10 Tests → 10 * 3 points
+  * 10 Homeworks → 10 * 2 points
+  * 3 Presentations → 3 * 3.34 points
+  * 1 Project → 40 points
+  * 1.5 bonus point to everyone in the class if 80%+ complete the course evaluation survey
+* After spring break
 
 #### Project (40 points)
 * 2.5 points → Data preparation
@@ -161,8 +163,9 @@
 * 5  points → Effects of regularization
 * 5  points → Addressing of peer-review comments
 * 5  points → Use pretrained & residual archs
-* 10 points → Report and poster presentation (score from external judges, peers, and instructor)
+* 10 points → Report ~~and poster presentation (score from external judges, peers, and instructor)~~
 
 ## Grading scheme  
-<img src="syllabus/grades.png" align="middle" width="450"/>
+* The university may provide you with an option to switch to S/U grade.
+  <img src="syllabus/grades.png" align="middle" width="450"/>
 
