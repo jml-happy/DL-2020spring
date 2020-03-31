@@ -91,7 +91,10 @@ b) A PDF report describing your findings
 a) A link to your Colab notebook (make sure that anyone with the link can view)  
 b) A PDF report describing your findings  
 
-## 7. Poster presentation (final exam)
+## ~~7. Report~~
+* Submit final project report (with eeverything put together).
+
+## ~~7. Poster presentation (final exam)~~
 * Prepare a poster highlighting the problem, diagrams, your results, plots, etc.
 * Poster and final report will be evaluated based on all the criteria above.
 * Report and poster presentation grades will be average of (a) grades by the course instructor (b) peer grades, and (c) grades by external visitor/s from industry
@@ -101,7 +104,7 @@ b) A PDF report describing your findings
 a) A copy of your final report  
 b) A link to your final Notebook
 
-**What to bring?**  
+~~**What to bring?**~~  
 a) A printed copy of your final report  
 b) A link to your final Notebook
 c) Your poster  
