@@ -92,7 +92,9 @@ a) A link to your Colab notebook (make sure that anyone with the link can view)
 b) A PDF report describing your findings  
 
 ## 7. Report
-* Submit final project report (with eeverything put together).
+**What to submit?**  
+a) A copy of your final report  
+b) A link to your final Notebook
 
 ## ~~7. Poster presentation (final exam)~~
 * Prepare a poster highlighting the problem, diagrams, your results, plots, etc.
@@ -104,7 +106,7 @@ b) A PDF report describing your findings
 a) A copy of your final report  
 b) A link to your final Notebook
 
-~~**What to bring?**~~  
+**What to bring?**
 a) A printed copy of your final report  
 b) A link to your final Notebook
 c) Your poster  
