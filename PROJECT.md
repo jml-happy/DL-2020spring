@@ -91,7 +91,7 @@ b) A PDF report describing your findings
 a) A link to your Colab notebook (make sure that anyone with the link can view)  
 b) A PDF report describing your findings  
 
-## ~~7. Report~~
+## 7. Report
 * Submit final project report (with eeverything put together).
 
 ## ~~7. Poster presentation (final exam)~~
