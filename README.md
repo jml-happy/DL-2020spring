@@ -51,57 +51,57 @@
 
 1. Training must stop - [slides](https://docs.google.com/presentation/d/1DEU6qG_xZE6wpAJDaOL7yLWuoyljZv2EER1cbY9kObo/edit?usp=sharing)
 
-1. Feed-forward neural networks - [wine_quality.ipynb](./notebooks/wine_quality.ipynb)
+1. Feed-forward neural networks - [notebook](./notebooks/wine_quality.ipynb)
 
-* Preparing images for deep learning - [slides](https://docs.google.com/presentation/d/1syD38eJp6aBnwuCWXNv7yrxhdn3U_KwQKvpo90ZDeNI/edit?usp=sharing) / [notebook](./notebooks/Image_preprocessing.ipynb)
-  - Sections 3.6.2, 5.2.4, and 5.2.5
+1. Preparing images for deep learning - [slides](https://docs.google.com/presentation/d/1syD38eJp6aBnwuCWXNv7yrxhdn3U_KwQKvpo90ZDeNI/edit?usp=sharing) / [notebook](./notebooks/Image_preprocessing.ipynb)
+   - Sections 3.6.2, 5.2.4, and 5.2.5
 
-* The convolution operation - [slides](https://docs.google.com/presentation/d/1uesCp63vUgzrgROJ7c3VfA5VyCR17W6czayhnWHj9AI/edit?usp=sharing) / [notebook](./notebooks/Detect_rectangles.ipynb)
-  - Section 5.1.1
+1. The convolution operation - [slides](https://docs.google.com/presentation/d/1uesCp63vUgzrgROJ7c3VfA5VyCR17W6czayhnWHj9AI/edit?usp=sharing) / [notebook](./notebooks/Detect_rectangles.ipynb)
+   - Section 5.1.1
 
-* Activations & loss functions - [slides](https://docs.google.com/presentation/d/17Gx0Iaov1MuNRXWHAeIUQvz0wpdKWTaIAVQVyRrt-cs/edit?usp=sharing)
-  - Section 4.5.5, and Table 4.1
+1. Activations & loss functions - [slides](https://docs.google.com/presentation/d/17Gx0Iaov1MuNRXWHAeIUQvz0wpdKWTaIAVQVyRrt-cs/edit?usp=sharing)
+   - Section 4.5.5, and Table 4.1
  
-* Classify MNIST digits using a CNN - [notebook](./notebooks/MNIST_v1.ipynb)
+1. Classify MNIST digits using a CNN - [notebook](./notebooks/MNIST_v1.ipynb)
 
-* Evaluating models - [slides](https://docs.google.com/presentation/d/1g8rzgspsYU90QtSV99hcA2_ojxJMwRdcw7KK55KNyMA/edit?usp=sharing)
-  - Sections, 4.2, 4.2.1, 4.2.2 
+1. Evaluating models - [slides](https://docs.google.com/presentation/d/1g8rzgspsYU90QtSV99hcA2_ojxJMwRdcw7KK55KNyMA/edit?usp=sharing)
+   - Sections, 4.2, 4.2.1, 4.2.2 
 
-* Feature engineering - [slides](https://docs.google.com/presentation/d/14k2vUTlJThQ0u8RVc0C68_92K1Df5YW0v85C5w3nFe8/edit?usp=sharing)
-  - Section 4.3
+1. Feature engineering - [slides](https://docs.google.com/presentation/d/14k2vUTlJThQ0u8RVc0C68_92K1Df5YW0v85C5w3nFe8/edit?usp=sharing)
+   - Section 4.3
 
-* Overfitting, underfitting, & regularization - [slides]
-  - Sections 4.4, 4.4.1, 4.4.2, and 4.4.3
+1. Overfitting, underfitting, & regularization - [slides]
+   - Sections 4.4, 4.4.1, 4.4.2, and 4.4.3
 
-* Convolutional NN architectures - [slides] [video lecture]
-  - Sections 5.1.1, 5.1.2, and 7.1
-  - Padding and Max-pooling
-  - Classic architectures
-  - Residual networks
-  - Inception network & GoogLeNet
-  - DenseNet and NASNet
+1. Convolutional NN architectures - [slides] [video lecture]
+   - Sections 5.1.1, 5.1.2, and 7.1
+   - Padding and Max-pooling
+   - Classic architectures
+   - Residual networks
+   - Inception network & GoogLeNet
+   - DenseNet and NASNet
 
-* Workflow of machine learning - [slides]
-  - Sections 4.5, 4.5.5, 4.5.6, and 4.5.7
+1. Workflow of machine learning - [slides]
+   - Sections 4.5, 4.5.5, 4.5.6, and 4.5.7
 
-* Transfer learning - [slides]
-  - Section 5.3, 5.3.1, and 5.3.2
+1. Transfer learning - [slides]
+   - Section 5.3, 5.3.1, and 5.3.2
 
-* Capsule networks - [slides]
+1. Capsule networks - [slides]
 
-* GPUs for deep learning
-  - Discussion: GPU battle
+1. GPUs for deep learning
+   - Discussion: GPU battle
 
-* Protein distance prediction - [slides]
+1. Protein distance prediction - [slides]
 
-* Explainable models - [slides]
-  - Section 5.4
+1. Explainable models - [slides]
+   - Section 5.4
 
-* Deep learning practices - [slides]
-  - Sections 7.1.2, 7.1.3, 7.1.4, and 7.1.5
+1. Deep learning practices - [slides]
+   - Sections 7.1.2, 7.1.3, 7.1.4, and 7.1.5
 
-* Limitations of DL & conclusions - [slides]
-  - Section 9.2
+1. Limitations of DL & conclusions - [slides]
+   - Section 9.2
 
 ## Course schedule
 * Detailed course schedule is [here](https://docs.google.com/spreadsheets/d/e/2PACX-1vRF6jdD5-whvlX-1mbKLpnryHVr8dIcKUbJcfg-Kx6WH7PkiXNRgLwyaQFO8svZWfxtaccjYpef0mpm/pubhtml?gid=1410243905&single=true).
