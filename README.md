@@ -70,7 +70,7 @@
 1. Feature engineering - [slides](https://docs.google.com/presentation/d/14k2vUTlJThQ0u8RVc0C68_92K1Df5YW0v85C5w3nFe8/edit?usp=sharing)
    - Section 4.3
 
-1. Overfitting, underfitting, & regularization - [slides]
+1. Overfitting, underfitting, & regularization - [slides](https://docs.google.com/presentation/d/1RyqzBPX5_Cbs_sCsEJLmYWWK7hbScr2jJABV6blFxRU/edit?usp=sharing)
    - Sections 4.4, 4.4.1, 4.4.2, and 4.4.3
 
 1. Workflow of machine learning - [slides]
