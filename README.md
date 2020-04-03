@@ -7,8 +7,8 @@
 
 ## Class and office hours
 * Instructor: [Badri Adhikari](http://umsl.edu/~adhikarib) | [adhikarib@umsl.edu](mailto:adhikarib@umsl.edu)
-* Class meets: `TuTh 6:55PM to 8:10PM` at `Clark Hall 306`
-* Office location and hours: `312 Express Scripts Hall`, `Mondays 1PM to 4PM` 
+* Class meets: `TuTh 6:55PM to 8:10PM`~~at `Clark Hall 306`~~
+* Office location and hours: by email ~~`312 Express Scripts Hall`, `Mondays 1PM to 4PM`~~
 
 ## About the course
 * Deep learning is popular because of its high applicability and superior performance in domains where we use machine learning. Deep learning based applications have reached or surpassed human performance not only for industrial problems like object classification, speech recognition, and stock market prediction but also for many problems in the field of biology and medicine. Recently, deep learning is demonstrated to outperform human radiologists in detecting pneumonia from chest X-rays. It is also reliably used in iPhone-X for unlocking the phone through accurate face detection. Self-driving cars drive using the deep learning algorithms. Deep learning will soon replace humans in most domains of human mental labor. This course reviews a typical machine learning recipe, computational foundations for deep learning, and provides an introduction to deep learning of dense neural networks. The course will focus on building, training, and evaluating deep convolutional neural networks for solving various machine learning problems, particularly the ones relating to image data. At the end of the course you will also be able to differentiate what kinds of problems are best solved by deep learning algorithms and what are not, and develop your own deep learning applications. You will also learn major technology trends in deep learning and understand what makes it different from traditional machine learning.
@@ -37,73 +37,71 @@
 
 ## Course topics
 
-* Introduction to Python and Numpy
-  - Notebooks - [Python3](notebooks/python.ipynb), [Numpy](notebooks/numpy.ipynb), [Matplotlib & Plotly](notebooks/matplotlib_plotly.ipynb)
-  - Viedo lectures - [Colab](https://www.youtube.com/watch?v=PVsS9WtwVB8), [Python3](https://youtube.com/watch?v=V42qfAPybp8), [Numpy](https://www.youtube.com/watch?v=Omz8P8n-5gY), [Matplotlib & Plotly](https://youtu.be/aIzkkjRzVdA)
-  - "[From Python to Numpy](https://www.labri.fr/perso/nrougier/from-python-to-numpy/)" and "[100 numpy exercises](https://github.com/rougier/numpy-100/blob/master/100_Numpy_exercises.ipynb)" by Nicolas P. Rougier
+1. Introduction to Python and Numpy
+   - Notebooks - [Python3](notebooks/python.ipynb), [Numpy](notebooks/numpy.ipynb), [Matplotlib & Plotly](notebooks/matplotlib_plotly.ipynb)
+   - Viedo lectures - [Colab](https://www.youtube.com/watch?v=PVsS9WtwVB8), [Python3](https://youtube.com/watch?v=V42qfAPybp8), [Numpy](https://www.youtube.com/watch?v=Omz8P8n-5gY), [Matplotlib & Plotly](https://youtu.be/aIzkkjRzVdA)
+   - "[From Python to Numpy](https://www.labri.fr/perso/nrougier/from-python-to-numpy/)" and "[100 numpy exercises](https://github.com/rougier/numpy-100/blob/master/100_Numpy_exercises.ipynb)" by Nicolas P. Rougier
+1. Introduction to deep learning - [slides](https://docs.google.com/presentation/d/12xzql-fPXfoecYB0UWL8KCvkTP-OO_UH3R9-c_yPxgg/edit?usp=sharing)
+   - Sections 1.1, 1.2, 1.3, and 4.1
+1. Data representations & tensor operations - [slides](https://docs.google.com/presentation/d/1jFkusgXRn05_slfSVBRkVxyNa3n7U1rQJa5vS8QwSko/edit?usp=sharing)
+   - Sections 2.2, 2.3, and 2.4
 
-* Introduction to deep learning - [slides](https://docs.google.com/presentation/d/12xzql-fPXfoecYB0UWL8KCvkTP-OO_UH3R9-c_yPxgg/edit?usp=sharing)
-  - Sections 1.1, 1.2, 1.3, and 4.1
+1. Introduction to Keras - [slides](https://docs.google.com/presentation/d/1uiI-RN9ThSXe1zpXu30INXqPUoUJaCVGFAwYF5jtlto/edit?usp=sharing)
+   - Sections 3.2 and 3.3
 
-* Data representations & tensor operations - [slides](https://docs.google.com/presentation/d/1jFkusgXRn05_slfSVBRkVxyNa3n7U1rQJa5vS8QwSko/edit?usp=sharing)
-  - Sections 2.2, 2.3, and 2.4
+1. Training must stop - [slides](https://docs.google.com/presentation/d/1DEU6qG_xZE6wpAJDaOL7yLWuoyljZv2EER1cbY9kObo/edit?usp=sharing)
 
-* Introduction to Keras - [slides](https://docs.google.com/presentation/d/1uiI-RN9ThSXe1zpXu30INXqPUoUJaCVGFAwYF5jtlto/edit?usp=sharing)
-  - Sections 3.2 and 3.3
+1. Feed-forward neural networks - [notebook](./notebooks/wine_quality.ipynb)
 
-* Training must stop - [slides](https://docs.google.com/presentation/d/1DEU6qG_xZE6wpAJDaOL7yLWuoyljZv2EER1cbY9kObo/edit?usp=sharing)
+1. Preparing images for deep learning - [slides](https://docs.google.com/presentation/d/1syD38eJp6aBnwuCWXNv7yrxhdn3U_KwQKvpo90ZDeNI/edit?usp=sharing) / [notebook](./notebooks/Image_preprocessing.ipynb)
+   - Sections 3.6.2, 5.2.4, and 5.2.5
 
-* Feed-forward neural networks - [wine_quality.ipynb](./notebooks/wine_quality.ipynb)
+1. The convolution operation - [slides](https://docs.google.com/presentation/d/1uesCp63vUgzrgROJ7c3VfA5VyCR17W6czayhnWHj9AI/edit?usp=sharing) / [notebook](./notebooks/Detect_rectangles.ipynb)
+   - Section 5.1.1
 
-* Preparing images for deep learning - [slides](https://docs.google.com/presentation/d/1syD38eJp6aBnwuCWXNv7yrxhdn3U_KwQKvpo90ZDeNI/edit?usp=sharing) / [notebook](./notebooks/Image_preprocessing.ipynb)
-  - Sections 3.6.2, 5.2.4, and 5.2.5
-
-* The convolution operation - [slides](https://docs.google.com/presentation/d/1uesCp63vUgzrgROJ7c3VfA5VyCR17W6czayhnWHj9AI/edit?usp=sharing) / [notebook](./notebooks/Detect_rectangles.ipynb)
-  - Section 5.1.1
-
-* Activations & loss functions - [slides](https://docs.google.com/presentation/d/17Gx0Iaov1MuNRXWHAeIUQvz0wpdKWTaIAVQVyRrt-cs/edit?usp=sharing)
-  - Section 4.5.5, and Table 4.1
+1. Activations & loss functions - [slides](https://docs.google.com/presentation/d/17Gx0Iaov1MuNRXWHAeIUQvz0wpdKWTaIAVQVyRrt-cs/edit?usp=sharing)
+   - Section 4.5.5, and Table 4.1
  
-* Classify MNIST digits using a CNN - [notebook](./notebooks/MNIST_v1.ipynb)
+1. Classify MNIST digits using a CNN - [notebook](./notebooks/MNIST_v1.ipynb)
 
-* Evaluating models - [slides](https://docs.google.com/presentation/d/1g8rzgspsYU90QtSV99hcA2_ojxJMwRdcw7KK55KNyMA/edit?usp=sharing)
-  - Sections, 4.2, 4.2.1, 4.2.2 
+1. Evaluating models - [slides](https://docs.google.com/presentation/d/1g8rzgspsYU90QtSV99hcA2_ojxJMwRdcw7KK55KNyMA/edit?usp=sharing)
+   - Sections, 4.2, 4.2.1, 4.2.2 
 
-* Feature engineering - [slides](https://docs.google.com/presentation/d/14k2vUTlJThQ0u8RVc0C68_92K1Df5YW0v85C5w3nFe8/edit?usp=sharing)
-  - Section 4.3
+1. Feature engineering - [slides](https://docs.google.com/presentation/d/14k2vUTlJThQ0u8RVc0C68_92K1Df5YW0v85C5w3nFe8/edit?usp=sharing)
+   - Section 4.3
 
-* Overfitting, underfitting, & regularization - [slides]
-  - Sections 4.4, 4.4.1, 4.4.2, and 4.4.3
+1. Overfitting, underfitting, & regularization - [slides](https://docs.google.com/presentation/d/1RyqzBPX5_Cbs_sCsEJLmYWWK7hbScr2jJABV6blFxRU/edit?usp=sharing)
+   - Sections 4.4, 4.4.1, 4.4.2, and 4.4.3
 
-* Convolutional NN architectures - [slides] [video lecture]
-  - Sections 5.1.1, 5.1.2, and 7.1
-  - Padding and Max-pooling
-  - Classic architectures
-  - Residual networks
-  - Inception network & GoogLeNet
-  - DenseNet and NASNet
+1. Workflow of machine learning - [slides]
+   - Sections 4.5, 4.5.5, 4.5.6, and 4.5.7
 
-* Workflow of machine learning - [slides]
-  - Sections 4.5, 4.5.5, 4.5.6, and 4.5.7
+1. Convolutional NN architectures - [slides] [video lecture]
+   - Sections 5.1.1, 5.1.2, and 7.1
+   - Padding and Max-pooling
+   - Classic architectures
+   - Residual networks
+   - Inception network & GoogLeNet
+   - DenseNet and NASNet
 
-* Transfer learning - [slides]
-  - Section 5.3, 5.3.1, and 5.3.2
+1. Transfer learning - [slides]
+   - Section 5.3, 5.3.1, and 5.3.2
 
-* Capsule networks - [slides]
+1. Capsule networks - [slides]
 
-* GPUs for deep learning
-  - Discussion: GPU battle
+1. GPUs for deep learning
+   - Discussion: GPU battle
 
-* Protein distance prediction - [slides]
+1. Protein distance prediction - [slides]
 
-* Explainable models - [slides]
-  - Section 5.4
+1. Explainable models - [slides]
+   - Section 5.4
 
-* Deep learning practices - [slides]
-  - Sections 7.1.2, 7.1.3, 7.1.4, and 7.1.5
+1. Deep learning practices - [slides]
+   - Sections 7.1.2, 7.1.3, 7.1.4, and 7.1.5
 
-* Limitations of DL & conclusions - [slides]
-  - Section 9.2
+1. Limitations of DL & conclusions - [slides]
+   - Section 9.2
 
 ## Course schedule
 * Detailed course schedule is [here](https://docs.google.com/spreadsheets/d/e/2PACX-1vRF6jdD5-whvlX-1mbKLpnryHVr8dIcKUbJcfg-Kx6WH7PkiXNRgLwyaQFO8svZWfxtaccjYpef0mpm/pubhtml?gid=1410243905&single=true).
@@ -117,7 +115,7 @@
 * Python3 is language for the course; you are expected to use Python3 for all of your classroom activities, homeworks, and project.
 * You are also required to use [Google colab](https://colab.research.google.com) or your own hosted Jupyter Notebook for running your programs.
 
-## Late policy  
+## ~~Late policy~~  
 * You have a total of 5 late days.
 * Once you use your late days, late submissions will get no points.
 
@@ -131,10 +129,10 @@
 * All reports including the final report must be prepared using <a href="https://www.overleaf.com/">Overleaf</a>.
 * For project homeworks, see the project section.
 
-## Presentations
+## ~~Presentations~~
 * See [here](PRESENTATIONS.md).
 
-## Tests  
+## ~~Tests~~
 * There will be short tests (maximum 30 minutes) almost every week on Thursdays (see the course schedule).
 * On the tests, you may be asked to find the output of a program/code-block but not to write complete programs.
 * If you miss a test (on topic A) and send me an email by the end of next day with a valid reason, your score in the next test (on topic B) will be copied as your score for the test you missed. However, in the test that you appear, you may be asked questions from both topics (A and B) while all others will receive questions only on topic B.
@@ -142,16 +140,21 @@
 * Use of any type of electronics is strictly forbidden during tests.
 * It is your responsibility to contact the instructor if you miss a test. If you don't, a grade of zero points will be assgined for the test you miss.
 
-## Attendance  
+## ~~Attendance~~
 * Attendance will be recorded frequently
 * More than 5 uninformed absenses may lead to failing the course  (This requirement is waived due to the COVID-19)
   
 ## Grade composition  
-* 10 Tests → 10 * 3 points
-* 10 Homeworks → 10 * 2 points
-* 3 Presentations → 3 * 3.34 points
-* 1 Project → 40 points
-* 1.5 bonus point to everyone in the class if 80%+ complete the course evaluation survey
+* Before spring break:
+  * 5 Tests → 5 * 3 points
+  * 5 Homeworks → 5 * 2 points
+  * 1 Homework → 3 points (learning to learn online)
+  * 1 Presentation → 1 * 3.34 points
+  * 2 Project phases → 5 points
+  * ~~1.5 bonus point to everyone in the class if 80%+ complete the course evaluation survey~~
+* After spring break:
+  * 5 Homeworks → 5 * 5 points
+  * Remaining project phases → 35 points
 
 #### Project (40 points)
 * 2.5 points → Data preparation
@@ -161,8 +164,9 @@
 * 5  points → Effects of regularization
 * 5  points → Addressing of peer-review comments
 * 5  points → Use pretrained & residual archs
-* 10 points → Report and poster presentation (score from external judges, peers, and instructor)
+* 10 points → Report ~~and poster presentation (score from external judges, peers, and instructor)~~
 
 ## Grading scheme  
-<img src="syllabus/grades.png" align="middle" width="450"/>
+* The university may provide you with an option to switch to S/U grade.
+  <img src="syllabus/grades.png" align="middle" width="450"/>
 

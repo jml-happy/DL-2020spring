@@ -22,7 +22,18 @@ a) A link to your Colab notebook (make sure that anyone with the link can view)
 b) A PDF report describing your findings  
 
 ## 2. Build an overfitting model
-1. Using all the data (i.e. without splitting) obtain close to 100% accuracy. Build as large model as you need (with many filters and many layers).
+1. Using all the data (i.e. without splitting) obtain close to 100% accuracy. Build as large model as you need (with many filters and many layers). Here is an example:
+   ```python
+   model = Sequential()
+   model.add( Conv2D( 64, ( 3, 3 ), activation = 'relu', input_shape = xtrain[0, :, :, :].shape ) )
+   model.add( MaxPool2D(4, 4) )
+   model.add( Conv2D( 32, ( 3, 3 ), activation = 'relu' ) )
+   model.add( MaxPool2D(4, 4) )
+   model.add( Conv2D( 16, ( 3, 3 ), activation = 'relu' ) )
+   model.add( Flatten() )
+   model.add( Dense( 10, activation = 'relu' ) )
+   model.add( Dense( 10, activation = 'softmax' ) )
+   ```
 1. How does the performance (accuracy, precision, recall, etc.) change when the number of filters and layers are increased/decreased?
 1. If you provide the output as the input (as an additional channel) what is the smallest architecture (minimum number of layers and filters) you need to overfit the data?
    ```python
@@ -91,7 +102,12 @@ b) A PDF report describing your findings
 a) A link to your Colab notebook (make sure that anyone with the link can view)  
 b) A PDF report describing your findings  
 
-## 7. Poster presentation (final exam)
+## 7. Report
+**What to submit?**  
+a) A copy of your final report  
+b) A link to your final Notebook
+
+## ~~7. Poster presentation (final exam)~~
 * Prepare a poster highlighting the problem, diagrams, your results, plots, etc.
 * Poster and final report will be evaluated based on all the criteria above.
 * Report and poster presentation grades will be average of (a) grades by the course instructor (b) peer grades, and (c) grades by external visitor/s from industry
@@ -101,7 +117,7 @@ b) A PDF report describing your findings
 a) A copy of your final report  
 b) A link to your final Notebook
 
-**What to bring?**  
+**What to bring?**
 a) A printed copy of your final report  
 b) A link to your final Notebook
 c) Your poster  
