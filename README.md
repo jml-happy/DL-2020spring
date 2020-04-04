@@ -73,7 +73,7 @@
 1. Overfitting, underfitting, & regularization - [slides](https://docs.google.com/presentation/d/1RyqzBPX5_Cbs_sCsEJLmYWWK7hbScr2jJABV6blFxRU/edit?usp=sharing)
    - Sections 4.4, 4.4.1, 4.4.2, and 4.4.3
 
-1. Workflow of machine learning - [slides]
+1. Workflow of machine learning - [slides] [cheatsheet slide](https://docs.google.com/presentation/d/1mT4aHk0yx9dwxrfnr1WBSKYjEheYhf8R_x0NegrUsto/edit?usp=sharing)
    - Sections 4.5, 4.5.5, 4.5.6, and 4.5.7
 
 1. Convolutional NN architectures - [slides] [video lecture]
