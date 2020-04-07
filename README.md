@@ -37,7 +37,7 @@
 
 ## Course topics
 
-1. Introduction to Python and Numpy
+1. Introduction to Python and Numpy  
    a. Notebooks - [Python3](notebooks/python.ipynb), [Numpy](notebooks/numpy.ipynb), [Matplotlib & Plotly](notebooks/matplotlib_plotly.ipynb)  
    b. Viedo lectures - [Colab](https://www.youtube.com/watch?v=PVsS9WtwVB8), [Python3](https://youtube.com/watch?v=V42qfAPybp8), [Numpy](https://www.youtube.com/watch?v=Omz8P8n-5gY), [Matplotlib & Plotly](https://youtu.be/aIzkkjRzVdA)  
    c. If you are new to Python, I strongly suggest practicing Python at [codewars.org](https://www.codewars.com/)  
