@@ -79,6 +79,8 @@
 1. Workflow of machine learning - [slides](https://docs.google.com/presentation/d/1jhp6E1B0M0Adf9jfv8OGZu2nv0p9Y1AmMy3KrwTWLFc/edit?usp=sharing) / [cheatsheet](https://docs.google.com/presentation/d/1mT4aHk0yx9dwxrfnr1WBSKYjEheYhf8R_x0NegrUsto/edit?usp=sharing)
    - Sections 4.5, 4.5.5, 4.5.6, and 4.5.7
 
+1. GPUs for deep learning [slides](https://docs.google.com/presentation/d/1Jg-BOZBDfhBht_3Sf49ja8QrWK_QuX7pr1CQkAf2mcI/edit?usp=sharing)
+
 1. Convolutional NN architectures - [slides] [video lecture]
    - Sections 5.1.1, 5.1.2, and 7.1
    - Padding and Max-pooling
@@ -91,9 +93,6 @@
    - Section 5.3, 5.3.1, and 5.3.2
 
 1. Capsule networks - [slides]
-
-1. GPUs for deep learning
-   - Discussion: GPU battle
 
 1. Protein distance prediction - [slides]
 
