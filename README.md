@@ -81,10 +81,8 @@
 
 1. GPUs for deep learning - [slides](https://docs.google.com/presentation/d/1Jg-BOZBDfhBht_3Sf49ja8QrWK_QuX7pr1CQkAf2mcI/edit?usp=sharing)
 
-1. Convolutional NN architectures - [slides] [video lecture]
+1. Classic CNN architectures - [slides](https://docs.google.com/presentation/d/1a5yeHRI_i0INatg9rLVpYuNTNvrxLCLxKH5_RISFwEY/edit?usp=sharing) / [notebooks](./notebooks/)
    - Sections 5.1.1, 5.1.2, and 7.1
-   - Padding and Max-pooling
-   - Classic architectures
    - Residual networks
    - Inception network & GoogLeNet
    - DenseNet and NASNet
