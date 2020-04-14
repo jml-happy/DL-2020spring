@@ -37,10 +37,13 @@
 
 ## Course topics
 
-1. Introduction to Python and Numpy
-   - Notebooks - [Python3](notebooks/python.ipynb), [Numpy](notebooks/numpy.ipynb), [Matplotlib & Plotly](notebooks/matplotlib_plotly.ipynb)
-   - Viedo lectures - [Colab](https://www.youtube.com/watch?v=PVsS9WtwVB8), [Python3](https://youtube.com/watch?v=V42qfAPybp8), [Numpy](https://www.youtube.com/watch?v=Omz8P8n-5gY), [Matplotlib & Plotly](https://youtu.be/aIzkkjRzVdA)
-   - "[From Python to Numpy](https://www.labri.fr/perso/nrougier/from-python-to-numpy/)" and "[100 numpy exercises](https://github.com/rougier/numpy-100/blob/master/100_Numpy_exercises.ipynb)" by Nicolas P. Rougier
+1. Introduction to Python and Numpy  
+    * Notebooks - [Python3](notebooks/python.ipynb), [Numpy](notebooks/numpy.ipynb), [Matplotlib & Plotly](notebooks/matplotlib_plotly.ipynb)  
+    * Viedo lectures - [Colab](https://www.youtube.com/watch?v=PVsS9WtwVB8), [Python3](https://youtube.com/watch?v=V42qfAPybp8), [Numpy](https://www.youtube.com/watch?v=Omz8P8n-5gY), [Matplotlib & Plotly](https://youtu.be/aIzkkjRzVdA)  
+    * If you are new to Python, I strongly suggest practicing Python at [codewars.org](https://www.codewars.com/)  
+    * If you already have some Python and Numpy background, I suggest practicing these:   
+        1. [From Python to Numpy](https://www.labri.fr/perso/nrougier/from-python-to-numpy/)   
+        2. [100 numpy exercises](https://github.com/rougier/numpy-100/blob/master/100_Numpy_exercises.ipynb) by Nicolas P. Rougier  
 1. Introduction to deep learning - [slides](https://docs.google.com/presentation/d/12xzql-fPXfoecYB0UWL8KCvkTP-OO_UH3R9-c_yPxgg/edit?usp=sharing)
    - Sections 1.1, 1.2, 1.3, and 4.1
 1. Data representations & tensor operations - [slides](https://docs.google.com/presentation/d/1jFkusgXRn05_slfSVBRkVxyNa3n7U1rQJa5vS8QwSko/edit?usp=sharing)
@@ -73,13 +76,13 @@
 1. Overfitting, underfitting, & regularization - [slides](https://docs.google.com/presentation/d/1RyqzBPX5_Cbs_sCsEJLmYWWK7hbScr2jJABV6blFxRU/edit?usp=sharing)
    - Sections 4.4, 4.4.1, 4.4.2, and 4.4.3
 
-1. Workflow of machine learning - [slides]
+1. Workflow of machine learning - [slides](https://docs.google.com/presentation/d/1jhp6E1B0M0Adf9jfv8OGZu2nv0p9Y1AmMy3KrwTWLFc/edit?usp=sharing) / [cheatsheet](https://docs.google.com/presentation/d/1mT4aHk0yx9dwxrfnr1WBSKYjEheYhf8R_x0NegrUsto/edit?usp=sharing)
    - Sections 4.5, 4.5.5, 4.5.6, and 4.5.7
 
-1. Convolutional NN architectures - [slides] [video lecture]
+1. GPUs for deep learning - [slides](https://docs.google.com/presentation/d/1Jg-BOZBDfhBht_3Sf49ja8QrWK_QuX7pr1CQkAf2mcI/edit?usp=sharing)
+
+1. Classic CNN architectures - [slides](https://docs.google.com/presentation/d/1a5yeHRI_i0INatg9rLVpYuNTNvrxLCLxKH5_RISFwEY/edit?usp=sharing) / [notebooks](./notebooks/)
    - Sections 5.1.1, 5.1.2, and 7.1
-   - Padding and Max-pooling
-   - Classic architectures
    - Residual networks
    - Inception network & GoogLeNet
    - DenseNet and NASNet
@@ -88,9 +91,6 @@
    - Section 5.3, 5.3.1, and 5.3.2
 
 1. Capsule networks - [slides]
-
-1. GPUs for deep learning
-   - Discussion: GPU battle
 
 1. Protein distance prediction - [slides]
 

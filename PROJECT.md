@@ -12,7 +12,8 @@
 # Project Phases
 
 ## 1. Data preparation
-1. Collect the images or take pictures
+1. Collect the images or take pictures  
+   ~~If you are extracting images from a video make sure that the images are not too easy to predict~~
 1. Crop/resize them all to same dimensions (height = width)
 1. Visualize sample images and discuss the distribution of output labels
 1. Discuss data normalization
